@@ -79,9 +79,7 @@ test_df %>% mutate(name_removed_flag = case_when(str_detect(final_sentence, "\\*
 
 
 
-
 ```{r}
-
 test_rank_df <- tibble(year = rep(c(2000, 2001, 2002), each = 5),
                        name = c("Andrew", "Andrew", "Matt", "Isil", "Andrew",
                                 "Matt", "Matt", "Isil", "Isil", "Andrew",
