@@ -1,0 +1,112 @@
+---
+title: "test field"
+author: "Katz et al."
+date: "10/23/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(tidyverse)
+```
+
+
+
+```{r}
+
+test_tibble <- tibble(interview_num = c("Int1", "Int2"), text = c("!!!I: This is an my first question in interview one. S: This is my first response in interview one. !!!I: This is the second question for the first interview. S: This is the second response for the first interview.", "I: This is an my first question in interview two S: This is my first response in interview two I: This is the second question for the second interview. S: This is the second response for the second interview."
+                               ))
+
+```
+
+
+
+```{r}
+test_tibble %>% mutate(text = str_remove_all(text, "\\!\\!\\!"))
+  
+```
+
+
+```{r}
+
+test_tibble %>% mutate(text = str_replace_all(text, pattern = "I:", replacement = "\nI:")) %>% 
+  mutate(text = str_replace_all(text, pattern = "S:", replacement = "\nS:")) %>% 
+  separate_rows(text, sep = "\n") %>% 
+  separate(text, into = c("Speaker", "text"), sep = ":") %>% 
+  filter(Speaker %in% c("Interviewer", "I", "S")) %>% 
+  group_by(interview_num, Speaker) %>% 
+  summarize(text = paste(text, collapse= ' '))
+
+```
+
+
+
+```{r}
+
+test_df <- tibble(final_sentence = c("This was written by ***", "*** also wrote this sentence",
+                                     "This sentence has [[[ for organization",
+                                     "This sentene has --- for geopolitical entity",
+                                     "This sentence has *** for name and [[[ for org"))
+
+
+```
+
+
+
+```{r}
+test_df %>% mutate(name_removed_flag = str_detect(final_sentence, "\\*\\*\\*"),
+                   org_removed_flag = str_detect(final_sentence, "\\[\\[\\["),
+                   gpe_removed_flag = str_detect(final_sentence, "\\-\\-\\-"),
+                   either_removed_flag = str_detect(final_sentence, "\\*\\*\\*|\\[\\[\\["))
+```
+
+
+```{r}
+rep(c(1, 2, 3), times = 2)
+
+```
+
+
+
+```{r}
+test_df %>% mutate(name_removed_flag = case_when(str_detect(final_sentence, "\\*\\*\\*")))
+
+
+```
+
+
+
+
+
+```{r}
+
+test_rank_df <- tibble(year = rep(c(2000, 2001, 2002), each = 5),
+                       name = c("Andrew", "Andrew", "Matt", "Isil", "Andrew",
+                                "Matt", "Matt", "Isil", "Isil", "Andrew",
+                                "Yasir", "Yasir", "Yasir", "Matt", "Isil"),
+                       sex = c("M", "M", "M", "F", "M",
+                               "M", "M", "F", "F", "M",
+                               "M", "M", "M", "M", "F"))
+
+```
+
+```{r}
+
+test_rank_sum_df <- test_rank_df %>% group_by(year, sex) %>% count(name) %>% ungroup()
+
+test_rank_sum_df
+```
+
+
+```{r}
+
+test_rank_sum_df %>% 
+  group_by(year, sex) %>% 
+  mutate(name_yr_sex_rank = order(n, decreasing = TRUE))
+
+```
+

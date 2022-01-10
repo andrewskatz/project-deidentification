@@ -1,0 +1,961 @@
+,name,original_sentence,named_sentence,final_sentence
+0,he,I didn't like being in the same group as ***.,I didn't like being in the same group as he.,I didn't like being in the same group as he.
+1,she,I didn't like being in the same group as ***.,I didn't like being in the same group as she.,I didn't like being in the same group as she.
+2,we,I didn't like being in the same group as ***.,I didn't like being in the same group as we.,I didn't like being in the same group as we.
+3,you,I didn't like being in the same group as ***.,I didn't like being in the same group as you.,I didn't like being in the same group as you.
+4,you all,I didn't like being in the same group as ***.,I didn't like being in the same group as you all.,I didn't like being in the same group as you all.
+5,they,I didn't like being in the same group as ***.,I didn't like being in the same group as they.,I didn't like being in the same group as they.
+6,I,I didn't like being in the same group as ***.,I didn't like being in the same group as I.,I didn't like being in the same group as I.
+7,me,I didn't like being in the same group as ***.,I didn't like being in the same group as me.,I didn't like being in the same group as me.
+8,him,I didn't like being in the same group as ***.,I didn't like being in the same group as him.,I didn't like being in the same group as him.
+9,her,I didn't like being in the same group as ***.,I didn't like being in the same group as her.,I didn't like being in the same group as her.
+10,them,I didn't like being in the same group as ***.,I didn't like being in the same group as them.,I didn't like being in the same group as them.
+11,us,I didn't like being in the same group as ***.,I didn't like being in the same group as us.,I didn't like being in the same group as us.
+12,he,Dr. *** has a weird way of talking to the rest of the class,Dr. he has a weird way of talking to the rest of the class,Dr. he has a weird way of talking to the rest of the class
+13,she,Dr. *** has a weird way of talking to the rest of the class,Dr. she has a weird way of talking to the rest of the class,Dr. she has a weird way of talking to the rest of the class
+14,we,Dr. *** has a weird way of talking to the rest of the class,Dr. we has a weird way of talking to the rest of the class,Dr. we has a weird way of talking to the rest of the class
+15,you,Dr. *** has a weird way of talking to the rest of the class,Dr. you has a weird way of talking to the rest of the class,Dr. you has a weird way of talking to the rest of the class
+16,you all,Dr. *** has a weird way of talking to the rest of the class,Dr. you all has a weird way of talking to the rest of the class,Dr. you all has a weird way of talking to the rest of the class
+17,they,Dr. *** has a weird way of talking to the rest of the class,Dr. they has a weird way of talking to the rest of the class,Dr. they has a weird way of talking to the rest of the class
+18,I,Dr. *** has a weird way of talking to the rest of the class,Dr. I has a weird way of talking to the rest of the class,Dr. I has a weird way of talking to the rest of the class
+19,me,Dr. *** has a weird way of talking to the rest of the class,Dr. me has a weird way of talking to the rest of the class,Dr. me has a weird way of talking to the rest of the class
+20,him,Dr. *** has a weird way of talking to the rest of the class,Dr. him has a weird way of talking to the rest of the class,Dr. him has a weird way of talking to the rest of the class
+21,her,Dr. *** has a weird way of talking to the rest of the class,Dr. her has a weird way of talking to the rest of the class,Dr. her has a weird way of talking to the rest of the class
+22,them,Dr. *** has a weird way of talking to the rest of the class,Dr. them has a weird way of talking to the rest of the class,Dr. them has a weird way of talking to the rest of the class
+23,us,Dr. *** has a weird way of talking to the rest of the class,Dr. us has a weird way of talking to the rest of the class,Dr. us has a weird way of talking to the rest of the class
+24,he,I thought *** was a great teacher,I thought he was a great teacher,I thought he was a great teacher
+25,she,I thought *** was a great teacher,I thought she was a great teacher,I thought she was a great teacher
+26,we,I thought *** was a great teacher,I thought we was a great teacher,I thought we was a great teacher
+27,you,I thought *** was a great teacher,I thought you was a great teacher,I thought you was a great teacher
+28,you all,I thought *** was a great teacher,I thought you all was a great teacher,I thought you all was a great teacher
+29,they,I thought *** was a great teacher,I thought they was a great teacher,I thought they was a great teacher
+30,I,I thought *** was a great teacher,I thought I was a great teacher,I thought I was a great teacher
+31,me,I thought *** was a great teacher,I thought me was a great teacher,I thought me was a great teacher
+32,him,I thought *** was a great teacher,I thought him was a great teacher,I thought him was a great teacher
+33,her,I thought *** was a great teacher,I thought her was a great teacher,I thought her was a great teacher
+34,them,I thought *** was a great teacher,I thought them was a great teacher,I thought them was a great teacher
+35,us,I thought *** was a great teacher,I thought us was a great teacher,I thought us was a great teacher
+36,he,*** works hard in class and always shows up on time,he works hard in class and always shows up on time,he works hard in class and always shows up on time
+37,she,*** works hard in class and always shows up on time,she works hard in class and always shows up on time,she works hard in class and always shows up on time
+38,we,*** works hard in class and always shows up on time,we works hard in class and always shows up on time,we works hard in class and always shows up on time
+39,you,*** works hard in class and always shows up on time,you works hard in class and always shows up on time,you works hard in class and always shows up on time
+40,you all,*** works hard in class and always shows up on time,you all works hard in class and always shows up on time,you all works hard in class and always shows up on time
+41,they,*** works hard in class and always shows up on time,they works hard in class and always shows up on time,they works hard in class and always shows up on time
+42,I,*** works hard in class and always shows up on time,I works hard in class and always shows up on time,I works hard in class and always shows up on time
+43,me,*** works hard in class and always shows up on time,me works hard in class and always shows up on time,me works hard in class and always shows up on time
+44,him,*** works hard in class and always shows up on time,him works hard in class and always shows up on time,him works hard in class and always shows up on time
+45,her,*** works hard in class and always shows up on time,her works hard in class and always shows up on time,her works hard in class and always shows up on time
+46,them,*** works hard in class and always shows up on time,them works hard in class and always shows up on time,them works hard in class and always shows up on time
+47,us,*** works hard in class and always shows up on time,us works hard in class and always shows up on time,us works hard in class and always shows up on time
+48,he,I really wish that *** wasn't on my team,I really wish that he wasn't on my team,I really wish that he wasn't on my team
+49,she,I really wish that *** wasn't on my team,I really wish that she wasn't on my team,I really wish that she wasn't on my team
+50,we,I really wish that *** wasn't on my team,I really wish that we wasn't on my team,I really wish that we wasn't on my team
+51,you,I really wish that *** wasn't on my team,I really wish that you wasn't on my team,I really wish that you wasn't on my team
+52,you all,I really wish that *** wasn't on my team,I really wish that you all wasn't on my team,I really wish that you all wasn't on my team
+53,they,I really wish that *** wasn't on my team,I really wish that they wasn't on my team,I really wish that they wasn't on my team
+54,I,I really wish that *** wasn't on my team,I really wish that I wasn't on my team,I really wish that I wasn't on my team
+55,me,I really wish that *** wasn't on my team,I really wish that me wasn't on my team,I really wish that me wasn't on my team
+56,him,I really wish that *** wasn't on my team,I really wish that him wasn't on my team,I really wish that him wasn't on my team
+57,her,I really wish that *** wasn't on my team,I really wish that her wasn't on my team,I really wish that her wasn't on my team
+58,them,I really wish that *** wasn't on my team,I really wish that them wasn't on my team,I really wish that them wasn't on my team
+59,us,I really wish that *** wasn't on my team,I really wish that us wasn't on my team,I really wish that us wasn't on my team
+60,he,The note's from ***'s class were great,The note's from he's class were great,The note's from he's class were great
+61,she,The note's from ***'s class were great,The note's from she's class were great,The note's from she's class were great
+62,we,The note's from ***'s class were great,The note's from we's class were great,The note's from we's class were great
+63,you,The note's from ***'s class were great,The note's from you's class were great,The note's from you's class were great
+64,you all,The note's from ***'s class were great,The note's from you all's class were great,The note's from you all's class were great
+65,they,The note's from ***'s class were great,The note's from they's class were great,The note's from they's class were great
+66,I,The note's from ***'s class were great,The note's from I's class were great,The note's from I's class were great
+67,me,The note's from ***'s class were great,The note's from me's class were great,The note's from me's class were great
+68,him,The note's from ***'s class were great,The note's from him's class were great,The note's from him's class were great
+69,her,The note's from ***'s class were great,The note's from her's class were great,The note's from her's class were great
+70,them,The note's from ***'s class were great,The note's from them's class were great,The note's from them's class were great
+71,us,The note's from ***'s class were great,The note's from us's class were great,The note's from us's class were great
+72,he,I was told by *** that we didn't need to finish the lab reports,I was told by he that we didn't need to finish the lab reports,I was told by he that we didn't need to finish the lab reports
+73,she,I was told by *** that we didn't need to finish the lab reports,I was told by she that we didn't need to finish the lab reports,I was told by she that we didn't need to finish the lab reports
+74,we,I was told by *** that we didn't need to finish the lab reports,I was told by we that we didn't need to finish the lab reports,I was told by we that we didn't need to finish the lab reports
+75,you,I was told by *** that we didn't need to finish the lab reports,I was told by you that we didn't need to finish the lab reports,I was told by you that we didn't need to finish the lab reports
+76,you all,I was told by *** that we didn't need to finish the lab reports,I was told by you all that we didn't need to finish the lab reports,I was told by you all that we didn't need to finish the lab reports
+77,they,I was told by *** that we didn't need to finish the lab reports,I was told by they that we didn't need to finish the lab reports,I was told by they that we didn't need to finish the lab reports
+78,I,I was told by *** that we didn't need to finish the lab reports,I was told by I that we didn't need to finish the lab reports,I was told by I that we didn't need to finish the lab reports
+79,me,I was told by *** that we didn't need to finish the lab reports,I was told by me that we didn't need to finish the lab reports,I was told by me that we didn't need to finish the lab reports
+80,him,I was told by *** that we didn't need to finish the lab reports,I was told by him that we didn't need to finish the lab reports,I was told by him that we didn't need to finish the lab reports
+81,her,I was told by *** that we didn't need to finish the lab reports,I was told by her that we didn't need to finish the lab reports,I was told by her that we didn't need to finish the lab reports
+82,them,I was told by *** that we didn't need to finish the lab reports,I was told by them that we didn't need to finish the lab reports,I was told by them that we didn't need to finish the lab reports
+83,us,I was told by *** that we didn't need to finish the lab reports,I was told by us that we didn't need to finish the lab reports,I was told by us that we didn't need to finish the lab reports
+84,he,I went to office hours ever week and got help from ***,I went to office hours ever week and got help from he,I went to office hours ever week and got help from he
+85,she,I went to office hours ever week and got help from ***,I went to office hours ever week and got help from she,I went to office hours ever week and got help from she
+86,we,I went to office hours ever week and got help from ***,I went to office hours ever week and got help from we,I went to office hours ever week and got help from we
+87,you,I went to office hours ever week and got help from ***,I went to office hours ever week and got help from you,I went to office hours ever week and got help from you
+88,you all,I went to office hours ever week and got help from ***,I went to office hours ever week and got help from you all,I went to office hours ever week and got help from you all
+89,they,I went to office hours ever week and got help from ***,I went to office hours ever week and got help from they,I went to office hours ever week and got help from they
+90,I,I went to office hours ever week and got help from ***,I went to office hours ever week and got help from I,I went to office hours ever week and got help from I
+91,me,I went to office hours ever week and got help from ***,I went to office hours ever week and got help from me,I went to office hours ever week and got help from me
+92,him,I went to office hours ever week and got help from ***,I went to office hours ever week and got help from him,I went to office hours ever week and got help from him
+93,her,I went to office hours ever week and got help from ***,I went to office hours ever week and got help from her,I went to office hours ever week and got help from her
+94,them,I went to office hours ever week and got help from ***,I went to office hours ever week and got help from them,I went to office hours ever week and got help from them
+95,us,I went to office hours ever week and got help from ***,I went to office hours ever week and got help from us,I went to office hours ever week and got help from us
+96,he,The textbook by *** was tough to read,The textbook by he was tough to read,The textbook by he was tough to read
+97,she,The textbook by *** was tough to read,The textbook by she was tough to read,The textbook by she was tough to read
+98,we,The textbook by *** was tough to read,The textbook by we was tough to read,The textbook by we was tough to read
+99,you,The textbook by *** was tough to read,The textbook by you was tough to read,The textbook by you was tough to read
+100,you all,The textbook by *** was tough to read,The textbook by you all was tough to read,The textbook by you all was tough to read
+101,they,The textbook by *** was tough to read,The textbook by they was tough to read,The textbook by they was tough to read
+102,I,The textbook by *** was tough to read,The textbook by I was tough to read,The textbook by I was tough to read
+103,me,The textbook by *** was tough to read,The textbook by me was tough to read,The textbook by me was tough to read
+104,him,The textbook by *** was tough to read,The textbook by him was tough to read,The textbook by him was tough to read
+105,her,The textbook by *** was tough to read,The textbook by her was tough to read,The textbook by her was tough to read
+106,them,The textbook by *** was tough to read,The textbook by them was tough to read,The textbook by them was tough to read
+107,us,The textbook by *** was tough to read,The textbook by us was tough to read,The textbook by us was tough to read
+108,he,He told *** that she was going to need a new partner for the group project,He told he that she was going to need a new partner for the group project,He told he that she was going to need a new partner for the group project
+109,she,He told *** that she was going to need a new partner for the group project,He told she that she was going to need a new partner for the group project,He told she that she was going to need a new partner for the group project
+110,we,He told *** that she was going to need a new partner for the group project,He told we that she was going to need a new partner for the group project,He told we that she was going to need a new partner for the group project
+111,you,He told *** that she was going to need a new partner for the group project,He told you that she was going to need a new partner for the group project,He told you that she was going to need a new partner for the group project
+112,you all,He told *** that she was going to need a new partner for the group project,He told you all that she was going to need a new partner for the group project,He told you all that she was going to need a new partner for the group project
+113,they,He told *** that she was going to need a new partner for the group project,He told they that she was going to need a new partner for the group project,He told they that she was going to need a new partner for the group project
+114,I,He told *** that she was going to need a new partner for the group project,He told I that she was going to need a new partner for the group project,He told I that she was going to need a new partner for the group project
+115,me,He told *** that she was going to need a new partner for the group project,He told me that she was going to need a new partner for the group project,He told me that she was going to need a new partner for the group project
+116,him,He told *** that she was going to need a new partner for the group project,He told him that she was going to need a new partner for the group project,He told him that she was going to need a new partner for the group project
+117,her,He told *** that she was going to need a new partner for the group project,He told her that she was going to need a new partner for the group project,He told her that she was going to need a new partner for the group project
+118,them,He told *** that she was going to need a new partner for the group project,He told them that she was going to need a new partner for the group project,He told them that she was going to need a new partner for the group project
+119,us,He told *** that she was going to need a new partner for the group project,He told us that she was going to need a new partner for the group project,He told us that she was going to need a new partner for the group project
+120,he,I think that *** was having a tough day,I think that he was having a tough day,I think that he was having a tough day
+121,she,I think that *** was having a tough day,I think that she was having a tough day,I think that she was having a tough day
+122,we,I think that *** was having a tough day,I think that we was having a tough day,I think that we was having a tough day
+123,you,I think that *** was having a tough day,I think that you was having a tough day,I think that you was having a tough day
+124,you all,I think that *** was having a tough day,I think that you all was having a tough day,I think that you all was having a tough day
+125,they,I think that *** was having a tough day,I think that they was having a tough day,I think that they was having a tough day
+126,I,I think that *** was having a tough day,I think that I was having a tough day,I think that I was having a tough day
+127,me,I think that *** was having a tough day,I think that me was having a tough day,I think that me was having a tough day
+128,him,I think that *** was having a tough day,I think that him was having a tough day,I think that him was having a tough day
+129,her,I think that *** was having a tough day,I think that her was having a tough day,I think that her was having a tough day
+130,them,I think that *** was having a tough day,I think that them was having a tough day,I think that them was having a tough day
+131,us,I think that *** was having a tough day,I think that us was having a tough day,I think that us was having a tough day
+132,he,The whole class decided that *** was talking a little too much,The whole class decided that he was talking a little too much,The whole class decided that he was talking a little too much
+133,she,The whole class decided that *** was talking a little too much,The whole class decided that she was talking a little too much,The whole class decided that she was talking a little too much
+134,we,The whole class decided that *** was talking a little too much,The whole class decided that we was talking a little too much,The whole class decided that we was talking a little too much
+135,you,The whole class decided that *** was talking a little too much,The whole class decided that you was talking a little too much,The whole class decided that you was talking a little too much
+136,you all,The whole class decided that *** was talking a little too much,The whole class decided that you all was talking a little too much,The whole class decided that you all was talking a little too much
+137,they,The whole class decided that *** was talking a little too much,The whole class decided that they was talking a little too much,The whole class decided that they was talking a little too much
+138,I,The whole class decided that *** was talking a little too much,The whole class decided that I was talking a little too much,The whole class decided that I was talking a little too much
+139,me,The whole class decided that *** was talking a little too much,The whole class decided that me was talking a little too much,The whole class decided that me was talking a little too much
+140,him,The whole class decided that *** was talking a little too much,The whole class decided that him was talking a little too much,The whole class decided that him was talking a little too much
+141,her,The whole class decided that *** was talking a little too much,The whole class decided that her was talking a little too much,The whole class decided that her was talking a little too much
+142,them,The whole class decided that *** was talking a little too much,The whole class decided that them was talking a little too much,The whole class decided that them was talking a little too much
+143,us,The whole class decided that *** was talking a little too much,The whole class decided that us was talking a little too much,The whole class decided that us was talking a little too much
+144,he,The honor council found that *** cheated on multiple exams,The honor council found that he cheated on multiple exams,The honor council found that he cheated on multiple exams
+145,she,The honor council found that *** cheated on multiple exams,The honor council found that she cheated on multiple exams,The honor council found that she cheated on multiple exams
+146,we,The honor council found that *** cheated on multiple exams,The honor council found that we cheated on multiple exams,The honor council found that we cheated on multiple exams
+147,you,The honor council found that *** cheated on multiple exams,The honor council found that you cheated on multiple exams,The honor council found that you cheated on multiple exams
+148,you all,The honor council found that *** cheated on multiple exams,The honor council found that you all cheated on multiple exams,The honor council found that you all cheated on multiple exams
+149,they,The honor council found that *** cheated on multiple exams,The honor council found that they cheated on multiple exams,The honor council found that they cheated on multiple exams
+150,I,The honor council found that *** cheated on multiple exams,The honor council found that I cheated on multiple exams,The honor council found that I cheated on multiple exams
+151,me,The honor council found that *** cheated on multiple exams,The honor council found that me cheated on multiple exams,The honor council found that me cheated on multiple exams
+152,him,The honor council found that *** cheated on multiple exams,The honor council found that him cheated on multiple exams,The honor council found that him cheated on multiple exams
+153,her,The honor council found that *** cheated on multiple exams,The honor council found that her cheated on multiple exams,The honor council found that her cheated on multiple exams
+154,them,The honor council found that *** cheated on multiple exams,The honor council found that them cheated on multiple exams,The honor council found that them cheated on multiple exams
+155,us,The honor council found that *** cheated on multiple exams,The honor council found that us cheated on multiple exams,The honor council found that us cheated on multiple exams
+156,he,There was disclosure about data from ***'s email account,There was disclosure about data from he's email account,There was disclosure about data from he's email account
+157,she,There was disclosure about data from ***'s email account,There was disclosure about data from she's email account,There was disclosure about data from she's email account
+158,we,There was disclosure about data from ***'s email account,There was disclosure about data from we's email account,There was disclosure about data from we's email account
+159,you,There was disclosure about data from ***'s email account,There was disclosure about data from you's email account,There was disclosure about data from you's email account
+160,you all,There was disclosure about data from ***'s email account,There was disclosure about data from you all's email account,There was disclosure about data from you all's email account
+161,they,There was disclosure about data from ***'s email account,There was disclosure about data from they's email account,There was disclosure about data from they's email account
+162,I,There was disclosure about data from ***'s email account,There was disclosure about data from I's email account,There was disclosure about data from I's email account
+163,me,There was disclosure about data from ***'s email account,There was disclosure about data from me's email account,There was disclosure about data from me's email account
+164,him,There was disclosure about data from ***'s email account,There was disclosure about data from him's email account,There was disclosure about data from him's email account
+165,her,There was disclosure about data from ***'s email account,There was disclosure about data from her's email account,There was disclosure about data from her's email account
+166,them,There was disclosure about data from ***'s email account,There was disclosure about data from them's email account,There was disclosure about data from them's email account
+167,us,There was disclosure about data from ***'s email account,There was disclosure about data from us's email account,There was disclosure about data from us's email account
+168,he,*** told me not to show up to class today,he told me not to show up to class today,he told me not to show up to class today
+169,she,*** told me not to show up to class today,she told me not to show up to class today,she told me not to show up to class today
+170,we,*** told me not to show up to class today,we told me not to show up to class today,we told me not to show up to class today
+171,you,*** told me not to show up to class today,you told me not to show up to class today,you told me not to show up to class today
+172,you all,*** told me not to show up to class today,you all told me not to show up to class today,you all told me not to show up to class today
+173,they,*** told me not to show up to class today,they told me not to show up to class today,they told me not to show up to class today
+174,I,*** told me not to show up to class today,I told me not to show up to class today,I told me not to show up to class today
+175,me,*** told me not to show up to class today,me told me not to show up to class today,me told me not to show up to class today
+176,him,*** told me not to show up to class today,him told me not to show up to class today,him told me not to show up to class today
+177,her,*** told me not to show up to class today,her told me not to show up to class today,her told me not to show up to class today
+178,them,*** told me not to show up to class today,them told me not to show up to class today,them told me not to show up to class today
+179,us,*** told me not to show up to class today,us told me not to show up to class today,us told me not to show up to class today
+180,he,My roommate *** never goes to class,My roommate he never goes to class,My roommate he never goes to class
+181,she,My roommate *** never goes to class,My roommate she never goes to class,My roommate she never goes to class
+182,we,My roommate *** never goes to class,My roommate we never goes to class,My roommate we never goes to class
+183,you,My roommate *** never goes to class,My roommate you never goes to class,My roommate you never goes to class
+184,you all,My roommate *** never goes to class,My roommate you all never goes to class,My roommate you all never goes to class
+185,they,My roommate *** never goes to class,My roommate they never goes to class,My roommate they never goes to class
+186,I,My roommate *** never goes to class,My roommate I never goes to class,My roommate I never goes to class
+187,me,My roommate *** never goes to class,My roommate me never goes to class,My roommate me never goes to class
+188,him,My roommate *** never goes to class,My roommate him never goes to class,My roommate him never goes to class
+189,her,My roommate *** never goes to class,My roommate her never goes to class,My roommate her never goes to class
+190,them,My roommate *** never goes to class,My roommate them never goes to class,My roommate them never goes to class
+191,us,My roommate *** never goes to class,My roommate us never goes to class,My roommate us never goes to class
+192,he,The honor society leader was *** for the past two years,The honor society leader was he for the past two years,The honor society leader was he for the past two years
+193,she,The honor society leader was *** for the past two years,The honor society leader was she for the past two years,The honor society leader was she for the past two years
+194,we,The honor society leader was *** for the past two years,The honor society leader was we for the past two years,The honor society leader was we for the past two years
+195,you,The honor society leader was *** for the past two years,The honor society leader was you for the past two years,The honor society leader was you for the past two years
+196,you all,The honor society leader was *** for the past two years,The honor society leader was you all for the past two years,The honor society leader was you all for the past two years
+197,they,The honor society leader was *** for the past two years,The honor society leader was they for the past two years,The honor society leader was they for the past two years
+198,I,The honor society leader was *** for the past two years,The honor society leader was I for the past two years,The honor society leader was I for the past two years
+199,me,The honor society leader was *** for the past two years,The honor society leader was me for the past two years,The honor society leader was me for the past two years
+200,him,The honor society leader was *** for the past two years,The honor society leader was him for the past two years,The honor society leader was him for the past two years
+201,her,The honor society leader was *** for the past two years,The honor society leader was her for the past two years,The honor society leader was her for the past two years
+202,them,The honor society leader was *** for the past two years,The honor society leader was them for the past two years,The honor society leader was them for the past two years
+203,us,The honor society leader was *** for the past two years,The honor society leader was us for the past two years,The honor society leader was us for the past two years
+204,he,I co-authored that paper with ***,I co-authored that paper with he,I co-authored that paper with he
+205,she,I co-authored that paper with ***,I co-authored that paper with she,I co-authored that paper with she
+206,we,I co-authored that paper with ***,I co-authored that paper with we,I co-authored that paper with we
+207,you,I co-authored that paper with ***,I co-authored that paper with you,I co-authored that paper with you
+208,you all,I co-authored that paper with ***,I co-authored that paper with you all,I co-authored that paper with you all
+209,they,I co-authored that paper with ***,I co-authored that paper with they,I co-authored that paper with they
+210,I,I co-authored that paper with ***,I co-authored that paper with I,I co-authored that paper with I
+211,me,I co-authored that paper with ***,I co-authored that paper with me,I co-authored that paper with me
+212,him,I co-authored that paper with ***,I co-authored that paper with him,I co-authored that paper with him
+213,her,I co-authored that paper with ***,I co-authored that paper with her,I co-authored that paper with her
+214,them,I co-authored that paper with ***,I co-authored that paper with them,I co-authored that paper with them
+215,us,I co-authored that paper with ***,I co-authored that paper with us,I co-authored that paper with us
+216,he,If *** could just write two more sentences then he could move on.,If he could just write two more sentences then he could move on.,If he could just write two more sentences then he could move on.
+217,she,If *** could just write two more sentences then he could move on.,If she could just write two more sentences then he could move on.,If she could just write two more sentences then he could move on.
+218,we,If *** could just write two more sentences then he could move on.,If we could just write two more sentences then he could move on.,If we could just write two more sentences then he could move on.
+219,you,If *** could just write two more sentences then he could move on.,If you could just write two more sentences then he could move on.,If you could just write two more sentences then he could move on.
+220,you all,If *** could just write two more sentences then he could move on.,If you all could just write two more sentences then he could move on.,If you all could just write two more sentences then he could move on.
+221,they,If *** could just write two more sentences then he could move on.,If they could just write two more sentences then he could move on.,If they could just write two more sentences then he could move on.
+222,I,If *** could just write two more sentences then he could move on.,If I could just write two more sentences then he could move on.,If I could just write two more sentences then he could move on.
+223,me,If *** could just write two more sentences then he could move on.,If me could just write two more sentences then he could move on.,If me could just write two more sentences then he could move on.
+224,him,If *** could just write two more sentences then he could move on.,If him could just write two more sentences then he could move on.,If him could just write two more sentences then he could move on.
+225,her,If *** could just write two more sentences then he could move on.,If her could just write two more sentences then he could move on.,If her could just write two more sentences then he could move on.
+226,them,If *** could just write two more sentences then he could move on.,If them could just write two more sentences then he could move on.,If them could just write two more sentences then he could move on.
+227,us,If *** could just write two more sentences then he could move on.,If us could just write two more sentences then he could move on.,If us could just write two more sentences then he could move on.
+228,he,I don't know why they gave *** that part of the project.,I don't know why they gave he that part of the project.,I don't know why they gave he that part of the project.
+229,she,I don't know why they gave *** that part of the project.,I don't know why they gave she that part of the project.,I don't know why they gave she that part of the project.
+230,we,I don't know why they gave *** that part of the project.,I don't know why they gave we that part of the project.,I don't know why they gave we that part of the project.
+231,you,I don't know why they gave *** that part of the project.,I don't know why they gave you that part of the project.,I don't know why they gave you that part of the project.
+232,you all,I don't know why they gave *** that part of the project.,I don't know why they gave you all that part of the project.,I don't know why they gave you all that part of the project.
+233,they,I don't know why they gave *** that part of the project.,I don't know why they gave they that part of the project.,I don't know why they gave they that part of the project.
+234,I,I don't know why they gave *** that part of the project.,I don't know why they gave I that part of the project.,I don't know why they gave I that part of the project.
+235,me,I don't know why they gave *** that part of the project.,I don't know why they gave me that part of the project.,I don't know why they gave me that part of the project.
+236,him,I don't know why they gave *** that part of the project.,I don't know why they gave him that part of the project.,I don't know why they gave him that part of the project.
+237,her,I don't know why they gave *** that part of the project.,I don't know why they gave her that part of the project.,I don't know why they gave her that part of the project.
+238,them,I don't know why they gave *** that part of the project.,I don't know why they gave them that part of the project.,I don't know why they gave them that part of the project.
+239,us,I don't know why they gave *** that part of the project.,I don't know why they gave us that part of the project.,I don't know why they gave us that part of the project.
+240,he,*** living with his dreams.,he living with his dreams.,he living with his dreams.
+241,she,*** living with his dreams.,she living with his dreams.,she living with his dreams.
+242,we,*** living with his dreams.,we living with his dreams.,we living with his dreams.
+243,you,*** living with his dreams.,you living with his dreams.,you living with his dreams.
+244,you all,*** living with his dreams.,you all living with his dreams.,you all living with his dreams.
+245,they,*** living with his dreams.,they living with his dreams.,they living with his dreams.
+246,I,*** living with his dreams.,I living with his dreams.,I living with his dreams.
+247,me,*** living with his dreams.,me living with his dreams.,me living with his dreams.
+248,him,*** living with his dreams.,him living with his dreams.,him living with his dreams.
+249,her,*** living with his dreams.,her living with his dreams.,her living with his dreams.
+250,them,*** living with his dreams.,them living with his dreams.,them living with his dreams.
+251,us,*** living with his dreams.,us living with his dreams.,us living with his dreams.
+252,he,The governor *** shared her resignation,The governor he shared her resignation,The governor he shared her resignation
+253,she,The governor *** shared her resignation,The governor she shared her resignation,The governor she shared her resignation
+254,we,The governor *** shared her resignation,The governor we shared her resignation,The governor we shared her resignation
+255,you,The governor *** shared her resignation,The governor you shared her resignation,The governor you shared her resignation
+256,you all,The governor *** shared her resignation,The governor you all shared her resignation,The governor you all shared her resignation
+257,they,The governor *** shared her resignation,The governor they shared her resignation,The governor they shared her resignation
+258,I,The governor *** shared her resignation,The governor I shared her resignation,The governor I shared her resignation
+259,me,The governor *** shared her resignation,The governor me shared her resignation,The governor me shared her resignation
+260,him,The governor *** shared her resignation,The governor him shared her resignation,The governor him shared her resignation
+261,her,The governor *** shared her resignation,The governor her shared her resignation,The governor her shared her resignation
+262,them,The governor *** shared her resignation,The governor them shared her resignation,The governor them shared her resignation
+263,us,The governor *** shared her resignation,The governor us shared her resignation,The governor us shared her resignation
+264,he,*** is selfish!,he is selfish!,he is selfish!
+265,she,*** is selfish!,she is selfish!,she is selfish!
+266,we,*** is selfish!,we is selfish!,we is selfish!
+267,you,*** is selfish!,you is selfish!,you is selfish!
+268,you all,*** is selfish!,you all is selfish!,you all is selfish!
+269,they,*** is selfish!,they is selfish!,they is selfish!
+270,I,*** is selfish!,I is selfish!,I is selfish!
+271,me,*** is selfish!,me is selfish!,me is selfish!
+272,him,*** is selfish!,him is selfish!,him is selfish!
+273,her,*** is selfish!,her is selfish!,her is selfish!
+274,them,*** is selfish!,them is selfish!,them is selfish!
+275,us,*** is selfish!,us is selfish!,us is selfish!
+276,he,I  would like to live with ***.,I  would like to live with he.,I  would like to live with he.
+277,she,I  would like to live with ***.,I  would like to live with she.,I  would like to live with she.
+278,we,I  would like to live with ***.,I  would like to live with we.,I  would like to live with we.
+279,you,I  would like to live with ***.,I  would like to live with you.,I  would like to live with you.
+280,you all,I  would like to live with ***.,I  would like to live with you all.,I  would like to live with you all.
+281,they,I  would like to live with ***.,I  would like to live with they.,I  would like to live with they.
+282,I,I  would like to live with ***.,I  would like to live with I.,I  would like to live with I.
+283,me,I  would like to live with ***.,I  would like to live with me.,I  would like to live with me.
+284,him,I  would like to live with ***.,I  would like to live with him.,I  would like to live with him.
+285,her,I  would like to live with ***.,I  would like to live with her.,I  would like to live with her.
+286,them,I  would like to live with ***.,I  would like to live with them.,I  would like to live with them.
+287,us,I  would like to live with ***.,I  would like to live with us.,I  would like to live with us.
+288,he,I dont like to share my food with ***,I dont like to share my food with he,I dont like to share my food with he
+289,she,I dont like to share my food with ***,I dont like to share my food with she,I dont like to share my food with she
+290,we,I dont like to share my food with ***,I dont like to share my food with we,I dont like to share my food with we
+291,you,I dont like to share my food with ***,I dont like to share my food with you,I dont like to share my food with you
+292,you all,I dont like to share my food with ***,I dont like to share my food with you all,I dont like to share my food with you all
+293,they,I dont like to share my food with ***,I dont like to share my food with they,I dont like to share my food with they
+294,I,I dont like to share my food with ***,I dont like to share my food with I,I dont like to share my food with I
+295,me,I dont like to share my food with ***,I dont like to share my food with me,I dont like to share my food with me
+296,him,I dont like to share my food with ***,I dont like to share my food with him,I dont like to share my food with him
+297,her,I dont like to share my food with ***,I dont like to share my food with her,I dont like to share my food with her
+298,them,I dont like to share my food with ***,I dont like to share my food with them,I dont like to share my food with them
+299,us,I dont like to share my food with ***,I dont like to share my food with us,I dont like to share my food with us
+300,he,He always argues with ***,He always argues with he,He always argues with he
+301,she,He always argues with ***,He always argues with she,He always argues with she
+302,we,He always argues with ***,He always argues with we,He always argues with we
+303,you,He always argues with ***,He always argues with you,He always argues with you
+304,you all,He always argues with ***,He always argues with you all,He always argues with you all
+305,they,He always argues with ***,He always argues with they,He always argues with they
+306,I,He always argues with ***,He always argues with I,He always argues with I
+307,me,He always argues with ***,He always argues with me,He always argues with me
+308,him,He always argues with ***,He always argues with him,He always argues with him
+309,her,He always argues with ***,He always argues with her,He always argues with her
+310,them,He always argues with ***,He always argues with them,He always argues with them
+311,us,He always argues with ***,He always argues with us,He always argues with us
+312,he,They collaborate with *** from research and development division,They collaborate with he from research and development division,They collaborate with he from research and development division
+313,she,They collaborate with *** from research and development division,They collaborate with she from research and development division,They collaborate with she from research and development division
+314,we,They collaborate with *** from research and development division,They collaborate with we from research and development division,They collaborate with we from research and development division
+315,you,They collaborate with *** from research and development division,They collaborate with you from research and development division,They collaborate with you from research and development division
+316,you all,They collaborate with *** from research and development division,They collaborate with you all from research and development division,They collaborate with you all from research and development division
+317,they,They collaborate with *** from research and development division,They collaborate with they from research and development division,They collaborate with they from research and development division
+318,I,They collaborate with *** from research and development division,They collaborate with I from research and development division,They collaborate with I from research and development division
+319,me,They collaborate with *** from research and development division,They collaborate with me from research and development division,They collaborate with me from research and development division
+320,him,They collaborate with *** from research and development division,They collaborate with him from research and development division,They collaborate with him from research and development division
+321,her,They collaborate with *** from research and development division,They collaborate with her from research and development division,They collaborate with her from research and development division
+322,them,They collaborate with *** from research and development division,They collaborate with them from research and development division,They collaborate with them from research and development division
+323,us,They collaborate with *** from research and development division,They collaborate with us from research and development division,They collaborate with us from research and development division
+324,he,Teacher always complain about *** in general,Teacher always complain about he in general,Teacher always complain about he in general
+325,she,Teacher always complain about *** in general,Teacher always complain about she in general,Teacher always complain about she in general
+326,we,Teacher always complain about *** in general,Teacher always complain about we in general,Teacher always complain about we in general
+327,you,Teacher always complain about *** in general,Teacher always complain about you in general,Teacher always complain about you in general
+328,you all,Teacher always complain about *** in general,Teacher always complain about you all in general,Teacher always complain about you all in general
+329,they,Teacher always complain about *** in general,Teacher always complain about they in general,Teacher always complain about they in general
+330,I,Teacher always complain about *** in general,Teacher always complain about I in general,Teacher always complain about I in general
+331,me,Teacher always complain about *** in general,Teacher always complain about me in general,Teacher always complain about me in general
+332,him,Teacher always complain about *** in general,Teacher always complain about him in general,Teacher always complain about him in general
+333,her,Teacher always complain about *** in general,Teacher always complain about her in general,Teacher always complain about her in general
+334,them,Teacher always complain about *** in general,Teacher always complain about them in general,Teacher always complain about them in general
+335,us,Teacher always complain about *** in general,Teacher always complain about us in general,Teacher always complain about us in general
+336,he,*** felt homesick after moving to a new city,he felt homesick after moving to a new city,he felt homesick after moving to a new city
+337,she,*** felt homesick after moving to a new city,she felt homesick after moving to a new city,she felt homesick after moving to a new city
+338,we,*** felt homesick after moving to a new city,we felt homesick after moving to a new city,we felt homesick after moving to a new city
+339,you,*** felt homesick after moving to a new city,you felt homesick after moving to a new city,you felt homesick after moving to a new city
+340,you all,*** felt homesick after moving to a new city,you all felt homesick after moving to a new city,you all felt homesick after moving to a new city
+341,they,*** felt homesick after moving to a new city,they felt homesick after moving to a new city,they felt homesick after moving to a new city
+342,I,*** felt homesick after moving to a new city,I felt homesick after moving to a new city,I felt homesick after moving to a new city
+343,me,*** felt homesick after moving to a new city,me felt homesick after moving to a new city,me felt homesick after moving to a new city
+344,him,*** felt homesick after moving to a new city,him felt homesick after moving to a new city,him felt homesick after moving to a new city
+345,her,*** felt homesick after moving to a new city,her felt homesick after moving to a new city,her felt homesick after moving to a new city
+346,them,*** felt homesick after moving to a new city,them felt homesick after moving to a new city,them felt homesick after moving to a new city
+347,us,*** felt homesick after moving to a new city,us felt homesick after moving to a new city,us felt homesick after moving to a new city
+348,he,*** was told to move out immediatly,he was told to move out immediatly,he was told to move out immediatly
+349,she,*** was told to move out immediatly,she was told to move out immediatly,she was told to move out immediatly
+350,we,*** was told to move out immediatly,we was told to move out immediatly,we was told to move out immediatly
+351,you,*** was told to move out immediatly,you was told to move out immediatly,you was told to move out immediatly
+352,you all,*** was told to move out immediatly,you all was told to move out immediatly,you all was told to move out immediatly
+353,they,*** was told to move out immediatly,they was told to move out immediatly,they was told to move out immediatly
+354,I,*** was told to move out immediatly,I was told to move out immediatly,I was told to move out immediatly
+355,me,*** was told to move out immediatly,me was told to move out immediatly,me was told to move out immediatly
+356,him,*** was told to move out immediatly,him was told to move out immediatly,him was told to move out immediatly
+357,her,*** was told to move out immediatly,her was told to move out immediatly,her was told to move out immediatly
+358,them,*** was told to move out immediatly,them was told to move out immediatly,them was told to move out immediatly
+359,us,*** was told to move out immediatly,us was told to move out immediatly,us was told to move out immediatly
+360,he,*** copes with academic stress well,he copes with academic stress well,he copes with academic stress well
+361,she,*** copes with academic stress well,she copes with academic stress well,she copes with academic stress well
+362,we,*** copes with academic stress well,we copes with academic stress well,we copes with academic stress well
+363,you,*** copes with academic stress well,you copes with academic stress well,you copes with academic stress well
+364,you all,*** copes with academic stress well,you all copes with academic stress well,you all copes with academic stress well
+365,they,*** copes with academic stress well,they copes with academic stress well,they copes with academic stress well
+366,I,*** copes with academic stress well,I copes with academic stress well,I copes with academic stress well
+367,me,*** copes with academic stress well,me copes with academic stress well,me copes with academic stress well
+368,him,*** copes with academic stress well,him copes with academic stress well,him copes with academic stress well
+369,her,*** copes with academic stress well,her copes with academic stress well,her copes with academic stress well
+370,them,*** copes with academic stress well,them copes with academic stress well,them copes with academic stress well
+371,us,*** copes with academic stress well,us copes with academic stress well,us copes with academic stress well
+372,he,*** prefers to buy organic and fresh vegetable,he prefers to buy organic and fresh vegetable,he prefers to buy organic and fresh vegetable
+373,she,*** prefers to buy organic and fresh vegetable,she prefers to buy organic and fresh vegetable,she prefers to buy organic and fresh vegetable
+374,we,*** prefers to buy organic and fresh vegetable,we prefers to buy organic and fresh vegetable,we prefers to buy organic and fresh vegetable
+375,you,*** prefers to buy organic and fresh vegetable,you prefers to buy organic and fresh vegetable,you prefers to buy organic and fresh vegetable
+376,you all,*** prefers to buy organic and fresh vegetable,you all prefers to buy organic and fresh vegetable,you all prefers to buy organic and fresh vegetable
+377,they,*** prefers to buy organic and fresh vegetable,they prefers to buy organic and fresh vegetable,they prefers to buy organic and fresh vegetable
+378,I,*** prefers to buy organic and fresh vegetable,I prefers to buy organic and fresh vegetable,I prefers to buy organic and fresh vegetable
+379,me,*** prefers to buy organic and fresh vegetable,me prefers to buy organic and fresh vegetable,me prefers to buy organic and fresh vegetable
+380,him,*** prefers to buy organic and fresh vegetable,him prefers to buy organic and fresh vegetable,him prefers to buy organic and fresh vegetable
+381,her,*** prefers to buy organic and fresh vegetable,her prefers to buy organic and fresh vegetable,her prefers to buy organic and fresh vegetable
+382,them,*** prefers to buy organic and fresh vegetable,them prefers to buy organic and fresh vegetable,them prefers to buy organic and fresh vegetable
+383,us,*** prefers to buy organic and fresh vegetable,us prefers to buy organic and fresh vegetable,us prefers to buy organic and fresh vegetable
+384,he,*** hates music!,he hates music!,he hates music!
+385,she,*** hates music!,she hates music!,she hates music!
+386,we,*** hates music!,we hates music!,we hates music!
+387,you,*** hates music!,you hates music!,you hates music!
+388,you all,*** hates music!,you all hates music!,you all hates music!
+389,they,*** hates music!,they hates music!,they hates music!
+390,I,*** hates music!,I hates music!,I hates music!
+391,me,*** hates music!,me hates music!,me hates music!
+392,him,*** hates music!,him hates music!,him hates music!
+393,her,*** hates music!,her hates music!,her hates music!
+394,them,*** hates music!,them hates music!,them hates music!
+395,us,*** hates music!,us hates music!,us hates music!
+396,he,I was told not to interrupt ***.,I was told not to interrupt he.,I was told not to interrupt he.
+397,she,I was told not to interrupt ***.,I was told not to interrupt she.,I was told not to interrupt she.
+398,we,I was told not to interrupt ***.,I was told not to interrupt we.,I was told not to interrupt we.
+399,you,I was told not to interrupt ***.,I was told not to interrupt you.,I was told not to interrupt you.
+400,you all,I was told not to interrupt ***.,I was told not to interrupt you all.,I was told not to interrupt you all.
+401,they,I was told not to interrupt ***.,I was told not to interrupt they.,I was told not to interrupt they.
+402,I,I was told not to interrupt ***.,I was told not to interrupt I.,I was told not to interrupt ***
+403,me,I was told not to interrupt ***.,I was told not to interrupt me.,I was told not to interrupt me.
+404,him,I was told not to interrupt ***.,I was told not to interrupt him.,I was told not to interrupt him.
+405,her,I was told not to interrupt ***.,I was told not to interrupt her.,I was told not to interrupt her.
+406,them,I was told not to interrupt ***.,I was told not to interrupt them.,I was told not to interrupt them.
+407,us,I was told not to interrupt ***.,I was told not to interrupt us.,I was told not to interrupt us.
+408,he,How is *** planning his professional development?,How is he planning his professional development?,How is he planning his professional development?
+409,she,How is *** planning his professional development?,How is she planning his professional development?,How is she planning his professional development?
+410,we,How is *** planning his professional development?,How is we planning his professional development?,How is we planning his professional development?
+411,you,How is *** planning his professional development?,How is you planning his professional development?,How is you planning his professional development?
+412,you all,How is *** planning his professional development?,How is you all planning his professional development?,How is you all planning his professional development?
+413,they,How is *** planning his professional development?,How is they planning his professional development?,How is they planning his professional development?
+414,I,How is *** planning his professional development?,How is I planning his professional development?,How is I planning his professional development?
+415,me,How is *** planning his professional development?,How is me planning his professional development?,How is me planning his professional development?
+416,him,How is *** planning his professional development?,How is him planning his professional development?,How is him planning his professional development?
+417,her,How is *** planning his professional development?,How is her planning his professional development?,How is her planning his professional development?
+418,them,How is *** planning his professional development?,How is them planning his professional development?,How is them planning his professional development?
+419,us,How is *** planning his professional development?,How is us planning his professional development?,How is us planning his professional development?
+420,he,"Diversity, equity and inclusion course is taught by ***","Diversity, equity and inclusion course is taught by he","Diversity, equity and inclusion course is taught by he"
+421,she,"Diversity, equity and inclusion course is taught by ***","Diversity, equity and inclusion course is taught by she","Diversity, equity and inclusion course is taught by she"
+422,we,"Diversity, equity and inclusion course is taught by ***","Diversity, equity and inclusion course is taught by we","Diversity, equity and inclusion course is taught by we"
+423,you,"Diversity, equity and inclusion course is taught by ***","Diversity, equity and inclusion course is taught by you","Diversity, equity and inclusion course is taught by you"
+424,you all,"Diversity, equity and inclusion course is taught by ***","Diversity, equity and inclusion course is taught by you all","Diversity, equity and inclusion course is taught by you all"
+425,they,"Diversity, equity and inclusion course is taught by ***","Diversity, equity and inclusion course is taught by they","Diversity, equity and inclusion course is taught by they"
+426,I,"Diversity, equity and inclusion course is taught by ***","Diversity, equity and inclusion course is taught by I","Diversity, equity and inclusion course is taught by I"
+427,me,"Diversity, equity and inclusion course is taught by ***","Diversity, equity and inclusion course is taught by me","Diversity, equity and inclusion course is taught by me"
+428,him,"Diversity, equity and inclusion course is taught by ***","Diversity, equity and inclusion course is taught by him","Diversity, equity and inclusion course is taught by him"
+429,her,"Diversity, equity and inclusion course is taught by ***","Diversity, equity and inclusion course is taught by her","Diversity, equity and inclusion course is taught by her"
+430,them,"Diversity, equity and inclusion course is taught by ***","Diversity, equity and inclusion course is taught by them","Diversity, equity and inclusion course is taught by them"
+431,us,"Diversity, equity and inclusion course is taught by ***","Diversity, equity and inclusion course is taught by us","Diversity, equity and inclusion course is taught by us"
+432,he,Writing a journal paper is a piece of cake for ***,Writing a journal paper is a piece of cake for he,Writing a journal paper is a piece of cake for he
+433,she,Writing a journal paper is a piece of cake for ***,Writing a journal paper is a piece of cake for she,Writing a journal paper is a piece of cake for she
+434,we,Writing a journal paper is a piece of cake for ***,Writing a journal paper is a piece of cake for we,Writing a journal paper is a piece of cake for we
+435,you,Writing a journal paper is a piece of cake for ***,Writing a journal paper is a piece of cake for you,Writing a journal paper is a piece of cake for you
+436,you all,Writing a journal paper is a piece of cake for ***,Writing a journal paper is a piece of cake for you all,Writing a journal paper is a piece of cake for you all
+437,they,Writing a journal paper is a piece of cake for ***,Writing a journal paper is a piece of cake for they,Writing a journal paper is a piece of cake for they
+438,I,Writing a journal paper is a piece of cake for ***,Writing a journal paper is a piece of cake for I,Writing a journal paper is a piece of cake for I
+439,me,Writing a journal paper is a piece of cake for ***,Writing a journal paper is a piece of cake for me,Writing a journal paper is a piece of cake for me
+440,him,Writing a journal paper is a piece of cake for ***,Writing a journal paper is a piece of cake for him,Writing a journal paper is a piece of cake for him
+441,her,Writing a journal paper is a piece of cake for ***,Writing a journal paper is a piece of cake for her,Writing a journal paper is a piece of cake for her
+442,them,Writing a journal paper is a piece of cake for ***,Writing a journal paper is a piece of cake for them,Writing a journal paper is a piece of cake for them
+443,us,Writing a journal paper is a piece of cake for ***,Writing a journal paper is a piece of cake for us,Writing a journal paper is a piece of cake for us
+444,he,I attended conference with ***.,I attended conference with he.,I attended conference with he.
+445,she,I attended conference with ***.,I attended conference with she.,I attended conference with she.
+446,we,I attended conference with ***.,I attended conference with we.,I attended conference with we.
+447,you,I attended conference with ***.,I attended conference with you.,I attended conference with you.
+448,you all,I attended conference with ***.,I attended conference with you all.,I attended conference with you all.
+449,they,I attended conference with ***.,I attended conference with they.,I attended conference with they.
+450,I,I attended conference with ***.,I attended conference with I.,I attended conference with I.
+451,me,I attended conference with ***.,I attended conference with me.,I attended conference with me.
+452,him,I attended conference with ***.,I attended conference with him.,I attended conference with him.
+453,her,I attended conference with ***.,I attended conference with her.,I attended conference with her.
+454,them,I attended conference with ***.,I attended conference with them.,I attended conference with them.
+455,us,I attended conference with ***.,I attended conference with us.,I attended conference with us.
+456,he,Attendees were not satisfied with the reaining provided by ***,Attendees were not satisfied with the reaining provided by he,Attendees were not satisfied with the reaining provided by he
+457,she,Attendees were not satisfied with the reaining provided by ***,Attendees were not satisfied with the reaining provided by she,Attendees were not satisfied with the reaining provided by she
+458,we,Attendees were not satisfied with the reaining provided by ***,Attendees were not satisfied with the reaining provided by we,Attendees were not satisfied with the reaining provided by we
+459,you,Attendees were not satisfied with the reaining provided by ***,Attendees were not satisfied with the reaining provided by you,Attendees were not satisfied with the reaining provided by you
+460,you all,Attendees were not satisfied with the reaining provided by ***,Attendees were not satisfied with the reaining provided by you all,Attendees were not satisfied with the reaining provided by you all
+461,they,Attendees were not satisfied with the reaining provided by ***,Attendees were not satisfied with the reaining provided by they,Attendees were not satisfied with the reaining provided by they
+462,I,Attendees were not satisfied with the reaining provided by ***,Attendees were not satisfied with the reaining provided by I,Attendees were not satisfied with the reaining provided by I
+463,me,Attendees were not satisfied with the reaining provided by ***,Attendees were not satisfied with the reaining provided by me,Attendees were not satisfied with the reaining provided by me
+464,him,Attendees were not satisfied with the reaining provided by ***,Attendees were not satisfied with the reaining provided by him,Attendees were not satisfied with the reaining provided by him
+465,her,Attendees were not satisfied with the reaining provided by ***,Attendees were not satisfied with the reaining provided by her,Attendees were not satisfied with the reaining provided by her
+466,them,Attendees were not satisfied with the reaining provided by ***,Attendees were not satisfied with the reaining provided by them,Attendees were not satisfied with the reaining provided by them
+467,us,Attendees were not satisfied with the reaining provided by ***,Attendees were not satisfied with the reaining provided by us,Attendees were not satisfied with the reaining provided by us
+468,he,They host a hiring fair with *** to hire new engineers.,They host a hiring fair with he to hire new engineers.,They host a hiring fair with he to hire new engineers.
+469,she,They host a hiring fair with *** to hire new engineers.,They host a hiring fair with she to hire new engineers.,They host a hiring fair with she to hire new engineers.
+470,we,They host a hiring fair with *** to hire new engineers.,They host a hiring fair with we to hire new engineers.,They host a hiring fair with we to hire new engineers.
+471,you,They host a hiring fair with *** to hire new engineers.,They host a hiring fair with you to hire new engineers.,They host a hiring fair with you to hire new engineers.
+472,you all,They host a hiring fair with *** to hire new engineers.,They host a hiring fair with you all to hire new engineers.,They host a hiring fair with you all to hire new engineers.
+473,they,They host a hiring fair with *** to hire new engineers.,They host a hiring fair with they to hire new engineers.,They host a hiring fair with they to hire new engineers.
+474,I,They host a hiring fair with *** to hire new engineers.,They host a hiring fair with I to hire new engineers.,They host a hiring fair with I to hire new engineers.
+475,me,They host a hiring fair with *** to hire new engineers.,They host a hiring fair with me to hire new engineers.,They host a hiring fair with me to hire new engineers.
+476,him,They host a hiring fair with *** to hire new engineers.,They host a hiring fair with him to hire new engineers.,They host a hiring fair with him to hire new engineers.
+477,her,They host a hiring fair with *** to hire new engineers.,They host a hiring fair with her to hire new engineers.,They host a hiring fair with her to hire new engineers.
+478,them,They host a hiring fair with *** to hire new engineers.,They host a hiring fair with them to hire new engineers.,They host a hiring fair with them to hire new engineers.
+479,us,They host a hiring fair with *** to hire new engineers.,They host a hiring fair with us to hire new engineers.,They host a hiring fair with us to hire new engineers.
+480,he,*** was one of the best professors I've ever had.,he was one of the best professors I've ever had.,he was one of the best professors I've ever had.
+481,she,*** was one of the best professors I've ever had.,she was one of the best professors I've ever had.,she was one of the best professors I've ever had.
+482,we,*** was one of the best professors I've ever had.,we was one of the best professors I've ever had.,we was one of the best professors I've ever had.
+483,you,*** was one of the best professors I've ever had.,you was one of the best professors I've ever had.,you was one of the best professors I've ever had.
+484,you all,*** was one of the best professors I've ever had.,you all was one of the best professors I've ever had.,you all was one of the best professors I've ever had.
+485,they,*** was one of the best professors I've ever had.,they was one of the best professors I've ever had.,they was one of the best professors I've ever had.
+486,I,*** was one of the best professors I've ever had.,I was one of the best professors I've ever had.,I was one of the best professors I've ever had.
+487,me,*** was one of the best professors I've ever had.,me was one of the best professors I've ever had.,me was one of the best professors I've ever had.
+488,him,*** was one of the best professors I've ever had.,him was one of the best professors I've ever had.,him was one of the best professors I've ever had.
+489,her,*** was one of the best professors I've ever had.,her was one of the best professors I've ever had.,her was one of the best professors I've ever had.
+490,them,*** was one of the best professors I've ever had.,them was one of the best professors I've ever had.,them was one of the best professors I've ever had.
+491,us,*** was one of the best professors I've ever had.,us was one of the best professors I've ever had.,us was one of the best professors I've ever had.
+492,he,I distinctly remember the first time I ever met ***.,I distinctly remember the first time I ever met he.,I distinctly remember the first time I ever met he.
+493,she,I distinctly remember the first time I ever met ***.,I distinctly remember the first time I ever met she.,I distinctly remember the first time I ever met she.
+494,we,I distinctly remember the first time I ever met ***.,I distinctly remember the first time I ever met we.,I distinctly remember the first time I ever met we.
+495,you,I distinctly remember the first time I ever met ***.,I distinctly remember the first time I ever met you.,I distinctly remember the first time I ever met you.
+496,you all,I distinctly remember the first time I ever met ***.,I distinctly remember the first time I ever met you all.,I distinctly remember the first time I ever met you all.
+497,they,I distinctly remember the first time I ever met ***.,I distinctly remember the first time I ever met they.,I distinctly remember the first time I ever met they.
+498,I,I distinctly remember the first time I ever met ***.,I distinctly remember the first time I ever met I.,I distinctly remember the first time I ever met ***
+499,me,I distinctly remember the first time I ever met ***.,I distinctly remember the first time I ever met me.,I distinctly remember the first time I ever met me.
+500,him,I distinctly remember the first time I ever met ***.,I distinctly remember the first time I ever met him.,I distinctly remember the first time I ever met him.
+501,her,I distinctly remember the first time I ever met ***.,I distinctly remember the first time I ever met her.,I distinctly remember the first time I ever met her.
+502,them,I distinctly remember the first time I ever met ***.,I distinctly remember the first time I ever met them.,I distinctly remember the first time I ever met them.
+503,us,I distinctly remember the first time I ever met ***.,I distinctly remember the first time I ever met us.,I distinctly remember the first time I ever met us.
+504,he,*** is one of my favorite science fiction authors.,he is one of my favorite science fiction authors.,he is one of my favorite science fiction authors.
+505,she,*** is one of my favorite science fiction authors.,she is one of my favorite science fiction authors.,she is one of my favorite science fiction authors.
+506,we,*** is one of my favorite science fiction authors.,we is one of my favorite science fiction authors.,we is one of my favorite science fiction authors.
+507,you,*** is one of my favorite science fiction authors.,you is one of my favorite science fiction authors.,you is one of my favorite science fiction authors.
+508,you all,*** is one of my favorite science fiction authors.,you all is one of my favorite science fiction authors.,you all is one of my favorite science fiction authors.
+509,they,*** is one of my favorite science fiction authors.,they is one of my favorite science fiction authors.,they is one of my favorite science fiction authors.
+510,I,*** is one of my favorite science fiction authors.,I is one of my favorite science fiction authors.,I is one of my favorite science fiction authors.
+511,me,*** is one of my favorite science fiction authors.,me is one of my favorite science fiction authors.,me is one of my favorite science fiction authors.
+512,him,*** is one of my favorite science fiction authors.,him is one of my favorite science fiction authors.,him is one of my favorite science fiction authors.
+513,her,*** is one of my favorite science fiction authors.,her is one of my favorite science fiction authors.,her is one of my favorite science fiction authors.
+514,them,*** is one of my favorite science fiction authors.,them is one of my favorite science fiction authors.,them is one of my favorite science fiction authors.
+515,us,*** is one of my favorite science fiction authors.,us is one of my favorite science fiction authors.,us is one of my favorite science fiction authors.
+516,he,"We haven't seen *** is weeks, I miss them.","We haven't seen he is weeks, I miss them.","We haven't seen he is weeks, I miss them."
+517,she,"We haven't seen *** is weeks, I miss them.","We haven't seen she is weeks, I miss them.","We haven't seen she is weeks, I miss them."
+518,we,"We haven't seen *** is weeks, I miss them.","We haven't seen we is weeks, I miss them.","We haven't seen we is weeks, I miss them."
+519,you,"We haven't seen *** is weeks, I miss them.","We haven't seen you is weeks, I miss them.","We haven't seen you is weeks, I miss them."
+520,you all,"We haven't seen *** is weeks, I miss them.","We haven't seen you all is weeks, I miss them.","We haven't seen you all is weeks, I miss them."
+521,they,"We haven't seen *** is weeks, I miss them.","We haven't seen they is weeks, I miss them.","We haven't seen they is weeks, I miss them."
+522,I,"We haven't seen *** is weeks, I miss them.","We haven't seen I is weeks, I miss them.","We haven't seen I is weeks, I miss them."
+523,me,"We haven't seen *** is weeks, I miss them.","We haven't seen me is weeks, I miss them.","We haven't seen me is weeks, I miss them."
+524,him,"We haven't seen *** is weeks, I miss them.","We haven't seen him is weeks, I miss them.","We haven't seen him is weeks, I miss them."
+525,her,"We haven't seen *** is weeks, I miss them.","We haven't seen her is weeks, I miss them.","We haven't seen her is weeks, I miss them."
+526,them,"We haven't seen *** is weeks, I miss them.","We haven't seen them is weeks, I miss them.","We haven't seen them is weeks, I miss them."
+527,us,"We haven't seen *** is weeks, I miss them.","We haven't seen us is weeks, I miss them.","We haven't seen us is weeks, I miss them."
+528,he,Growing up I spent most of my time with my mother *** and our two dogs.,Growing up I spent most of my time with my mother he and our two dogs.,Growing up I spent most of my time with my mother he and our two dogs.
+529,she,Growing up I spent most of my time with my mother *** and our two dogs.,Growing up I spent most of my time with my mother she and our two dogs.,Growing up I spent most of my time with my mother she and our two dogs.
+530,we,Growing up I spent most of my time with my mother *** and our two dogs.,Growing up I spent most of my time with my mother we and our two dogs.,Growing up I spent most of my time with my mother we and our two dogs.
+531,you,Growing up I spent most of my time with my mother *** and our two dogs.,Growing up I spent most of my time with my mother you and our two dogs.,Growing up I spent most of my time with my mother you and our two dogs.
+532,you all,Growing up I spent most of my time with my mother *** and our two dogs.,Growing up I spent most of my time with my mother you all and our two dogs.,Growing up I spent most of my time with my mother you all and our two dogs.
+533,they,Growing up I spent most of my time with my mother *** and our two dogs.,Growing up I spent most of my time with my mother they and our two dogs.,Growing up I spent most of my time with my mother they and our two dogs.
+534,I,Growing up I spent most of my time with my mother *** and our two dogs.,Growing up I spent most of my time with my mother I and our two dogs.,Growing up I spent most of my time with my mother I and our two dogs.
+535,me,Growing up I spent most of my time with my mother *** and our two dogs.,Growing up I spent most of my time with my mother me and our two dogs.,Growing up I spent most of my time with my mother me and our two dogs.
+536,him,Growing up I spent most of my time with my mother *** and our two dogs.,Growing up I spent most of my time with my mother him and our two dogs.,Growing up I spent most of my time with my mother him and our two dogs.
+537,her,Growing up I spent most of my time with my mother *** and our two dogs.,Growing up I spent most of my time with my mother her and our two dogs.,Growing up I spent most of my time with my mother her and our two dogs.
+538,them,Growing up I spent most of my time with my mother *** and our two dogs.,Growing up I spent most of my time with my mother them and our two dogs.,Growing up I spent most of my time with my mother them and our two dogs.
+539,us,Growing up I spent most of my time with my mother *** and our two dogs.,Growing up I spent most of my time with my mother us and our two dogs.,Growing up I spent most of my time with my mother us and our two dogs.
+540,he,*** has grown so much since I last saw them!,he has grown so much since I last saw them!,he has grown so much since I last saw them!
+541,she,*** has grown so much since I last saw them!,she has grown so much since I last saw them!,she has grown so much since I last saw them!
+542,we,*** has grown so much since I last saw them!,we has grown so much since I last saw them!,we has grown so much since I last saw them!
+543,you,*** has grown so much since I last saw them!,you has grown so much since I last saw them!,you has grown so much since I last saw them!
+544,you all,*** has grown so much since I last saw them!,you all has grown so much since I last saw them!,you all has grown so much since I last saw them!
+545,they,*** has grown so much since I last saw them!,they has grown so much since I last saw them!,they has grown so much since I last saw them!
+546,I,*** has grown so much since I last saw them!,I has grown so much since I last saw them!,I has grown so much since I last saw them!
+547,me,*** has grown so much since I last saw them!,me has grown so much since I last saw them!,me has grown so much since I last saw them!
+548,him,*** has grown so much since I last saw them!,him has grown so much since I last saw them!,him has grown so much since I last saw them!
+549,her,*** has grown so much since I last saw them!,her has grown so much since I last saw them!,her has grown so much since I last saw them!
+550,them,*** has grown so much since I last saw them!,them has grown so much since I last saw them!,them has grown so much since I last saw them!
+551,us,*** has grown so much since I last saw them!,us has grown so much since I last saw them!,us has grown so much since I last saw them!
+552,he,My name is *** and I approve this message.,My name is he and I approve this message.,My name is he and I approve this message.
+553,she,My name is *** and I approve this message.,My name is she and I approve this message.,My name is she and I approve this message.
+554,we,My name is *** and I approve this message.,My name is we and I approve this message.,My name is we and I approve this message.
+555,you,My name is *** and I approve this message.,My name is you and I approve this message.,My name is you and I approve this message.
+556,you all,My name is *** and I approve this message.,My name is you all and I approve this message.,My name is you all and I approve this message.
+557,they,My name is *** and I approve this message.,My name is they and I approve this message.,My name is they and I approve this message.
+558,I,My name is *** and I approve this message.,My name is I and I approve this message.,My name is I and I approve this message.
+559,me,My name is *** and I approve this message.,My name is me and I approve this message.,My name is me and I approve this message.
+560,him,My name is *** and I approve this message.,My name is him and I approve this message.,My name is him and I approve this message.
+561,her,My name is *** and I approve this message.,My name is her and I approve this message.,My name is her and I approve this message.
+562,them,My name is *** and I approve this message.,My name is them and I approve this message.,My name is them and I approve this message.
+563,us,My name is *** and I approve this message.,My name is us and I approve this message.,My name is us and I approve this message.
+564,he,*** was very mean to their sister.,he was very mean to their sister.,he was very mean to their sister.
+565,she,*** was very mean to their sister.,she was very mean to their sister.,she was very mean to their sister.
+566,we,*** was very mean to their sister.,we was very mean to their sister.,we was very mean to their sister.
+567,you,*** was very mean to their sister.,you was very mean to their sister.,you was very mean to their sister.
+568,you all,*** was very mean to their sister.,you all was very mean to their sister.,you all was very mean to their sister.
+569,they,*** was very mean to their sister.,they was very mean to their sister.,they was very mean to their sister.
+570,I,*** was very mean to their sister.,I was very mean to their sister.,I was very mean to their sister.
+571,me,*** was very mean to their sister.,me was very mean to their sister.,me was very mean to their sister.
+572,him,*** was very mean to their sister.,him was very mean to their sister.,him was very mean to their sister.
+573,her,*** was very mean to their sister.,her was very mean to their sister.,her was very mean to their sister.
+574,them,*** was very mean to their sister.,them was very mean to their sister.,them was very mean to their sister.
+575,us,*** was very mean to their sister.,us was very mean to their sister.,us was very mean to their sister.
+576,he,"I just spoke with ***, they're okay with moving forward to the next steps in the plan.","I just spoke with he, they're okay with moving forward to the next steps in the plan.","I just spoke with he, they're okay with moving forward to the next steps in the plan."
+577,she,"I just spoke with ***, they're okay with moving forward to the next steps in the plan.","I just spoke with she, they're okay with moving forward to the next steps in the plan.","I just spoke with she, they're okay with moving forward to the next steps in the plan."
+578,we,"I just spoke with ***, they're okay with moving forward to the next steps in the plan.","I just spoke with we, they're okay with moving forward to the next steps in the plan.","I just spoke with we, they're okay with moving forward to the next steps in the plan."
+579,you,"I just spoke with ***, they're okay with moving forward to the next steps in the plan.","I just spoke with you, they're okay with moving forward to the next steps in the plan.","I just spoke with you, they're okay with moving forward to the next steps in the plan."
+580,you all,"I just spoke with ***, they're okay with moving forward to the next steps in the plan.","I just spoke with you all, they're okay with moving forward to the next steps in the plan.","I just spoke with you all, they're okay with moving forward to the next steps in the plan."
+581,they,"I just spoke with ***, they're okay with moving forward to the next steps in the plan.","I just spoke with they, they're okay with moving forward to the next steps in the plan.","I just spoke with they, they're okay with moving forward to the next steps in the plan."
+582,I,"I just spoke with ***, they're okay with moving forward to the next steps in the plan.","I just spoke with I, they're okay with moving forward to the next steps in the plan.","I just spoke with I, they're okay with moving forward to the next steps in the plan."
+583,me,"I just spoke with ***, they're okay with moving forward to the next steps in the plan.","I just spoke with me, they're okay with moving forward to the next steps in the plan.","I just spoke with me, they're okay with moving forward to the next steps in the plan."
+584,him,"I just spoke with ***, they're okay with moving forward to the next steps in the plan.","I just spoke with him, they're okay with moving forward to the next steps in the plan.","I just spoke with him, they're okay with moving forward to the next steps in the plan."
+585,her,"I just spoke with ***, they're okay with moving forward to the next steps in the plan.","I just spoke with her, they're okay with moving forward to the next steps in the plan.","I just spoke with her, they're okay with moving forward to the next steps in the plan."
+586,them,"I just spoke with ***, they're okay with moving forward to the next steps in the plan.","I just spoke with them, they're okay with moving forward to the next steps in the plan.","I just spoke with them, they're okay with moving forward to the next steps in the plan."
+587,us,"I just spoke with ***, they're okay with moving forward to the next steps in the plan.","I just spoke with us, they're okay with moving forward to the next steps in the plan.","I just spoke with us, they're okay with moving forward to the next steps in the plan."
+588,he,*** just published their second book.,he just published their second book.,he just published their second book.
+589,she,*** just published their second book.,she just published their second book.,she just published their second book.
+590,we,*** just published their second book.,we just published their second book.,we just published their second book.
+591,you,*** just published their second book.,you just published their second book.,you just published their second book.
+592,you all,*** just published their second book.,you all just published their second book.,you all just published their second book.
+593,they,*** just published their second book.,they just published their second book.,they just published their second book.
+594,I,*** just published their second book.,I just published their second book.,I just published their second book.
+595,me,*** just published their second book.,me just published their second book.,me just published their second book.
+596,him,*** just published their second book.,him just published their second book.,him just published their second book.
+597,her,*** just published their second book.,her just published their second book.,her just published their second book.
+598,them,*** just published their second book.,them just published their second book.,them just published their second book.
+599,us,*** just published their second book.,us just published their second book.,us just published their second book.
+600,he,Everyone voted and decided that *** made the best apple pie.,Everyone voted and decided that he made the best apple pie.,Everyone voted and decided that he made the best apple pie.
+601,she,Everyone voted and decided that *** made the best apple pie.,Everyone voted and decided that she made the best apple pie.,Everyone voted and decided that she made the best apple pie.
+602,we,Everyone voted and decided that *** made the best apple pie.,Everyone voted and decided that we made the best apple pie.,Everyone voted and decided that we made the best apple pie.
+603,you,Everyone voted and decided that *** made the best apple pie.,Everyone voted and decided that you made the best apple pie.,Everyone voted and decided that you made the best apple pie.
+604,you all,Everyone voted and decided that *** made the best apple pie.,Everyone voted and decided that you all made the best apple pie.,Everyone voted and decided that you all made the best apple pie.
+605,they,Everyone voted and decided that *** made the best apple pie.,Everyone voted and decided that they made the best apple pie.,Everyone voted and decided that they made the best apple pie.
+606,I,Everyone voted and decided that *** made the best apple pie.,Everyone voted and decided that I made the best apple pie.,Everyone voted and decided that I made the best apple pie.
+607,me,Everyone voted and decided that *** made the best apple pie.,Everyone voted and decided that me made the best apple pie.,Everyone voted and decided that me made the best apple pie.
+608,him,Everyone voted and decided that *** made the best apple pie.,Everyone voted and decided that him made the best apple pie.,Everyone voted and decided that him made the best apple pie.
+609,her,Everyone voted and decided that *** made the best apple pie.,Everyone voted and decided that her made the best apple pie.,Everyone voted and decided that her made the best apple pie.
+610,them,Everyone voted and decided that *** made the best apple pie.,Everyone voted and decided that them made the best apple pie.,Everyone voted and decided that them made the best apple pie.
+611,us,Everyone voted and decided that *** made the best apple pie.,Everyone voted and decided that us made the best apple pie.,Everyone voted and decided that us made the best apple pie.
+612,he,*** lost their jacket at school last week.,he lost their jacket at school last week.,he lost their jacket at school last week.
+613,she,*** lost their jacket at school last week.,she lost their jacket at school last week.,she lost their jacket at school last week.
+614,we,*** lost their jacket at school last week.,we lost their jacket at school last week.,we lost their jacket at school last week.
+615,you,*** lost their jacket at school last week.,you lost their jacket at school last week.,you lost their jacket at school last week.
+616,you all,*** lost their jacket at school last week.,you all lost their jacket at school last week.,you all lost their jacket at school last week.
+617,they,*** lost their jacket at school last week.,they lost their jacket at school last week.,they lost their jacket at school last week.
+618,I,*** lost their jacket at school last week.,I lost their jacket at school last week.,I lost their jacket at school last week.
+619,me,*** lost their jacket at school last week.,me lost their jacket at school last week.,me lost their jacket at school last week.
+620,him,*** lost their jacket at school last week.,him lost their jacket at school last week.,him lost their jacket at school last week.
+621,her,*** lost their jacket at school last week.,her lost their jacket at school last week.,her lost their jacket at school last week.
+622,them,*** lost their jacket at school last week.,them lost their jacket at school last week.,them lost their jacket at school last week.
+623,us,*** lost their jacket at school last week.,us lost their jacket at school last week.,us lost their jacket at school last week.
+624,he,I have a meeting tomorrow with *** about what happened last week.,I have a meeting tomorrow with he about what happened last week.,I have a meeting tomorrow with he about what happened last week.
+625,she,I have a meeting tomorrow with *** about what happened last week.,I have a meeting tomorrow with she about what happened last week.,I have a meeting tomorrow with she about what happened last week.
+626,we,I have a meeting tomorrow with *** about what happened last week.,I have a meeting tomorrow with we about what happened last week.,I have a meeting tomorrow with we about what happened last week.
+627,you,I have a meeting tomorrow with *** about what happened last week.,I have a meeting tomorrow with you about what happened last week.,I have a meeting tomorrow with you about what happened last week.
+628,you all,I have a meeting tomorrow with *** about what happened last week.,I have a meeting tomorrow with you all about what happened last week.,I have a meeting tomorrow with you all about what happened last week.
+629,they,I have a meeting tomorrow with *** about what happened last week.,I have a meeting tomorrow with they about what happened last week.,I have a meeting tomorrow with they about what happened last week.
+630,I,I have a meeting tomorrow with *** about what happened last week.,I have a meeting tomorrow with I about what happened last week.,I have a meeting tomorrow with I about what happened last week.
+631,me,I have a meeting tomorrow with *** about what happened last week.,I have a meeting tomorrow with me about what happened last week.,I have a meeting tomorrow with me about what happened last week.
+632,him,I have a meeting tomorrow with *** about what happened last week.,I have a meeting tomorrow with him about what happened last week.,I have a meeting tomorrow with him about what happened last week.
+633,her,I have a meeting tomorrow with *** about what happened last week.,I have a meeting tomorrow with her about what happened last week.,I have a meeting tomorrow with her about what happened last week.
+634,them,I have a meeting tomorrow with *** about what happened last week.,I have a meeting tomorrow with them about what happened last week.,I have a meeting tomorrow with them about what happened last week.
+635,us,I have a meeting tomorrow with *** about what happened last week.,I have a meeting tomorrow with us about what happened last week.,I have a meeting tomorrow with us about what happened last week.
+636,he,My cat *** passed away yesterday.,My cat he passed away yesterday.,My cat he passed away yesterday.
+637,she,My cat *** passed away yesterday.,My cat she passed away yesterday.,My cat she passed away yesterday.
+638,we,My cat *** passed away yesterday.,My cat we passed away yesterday.,My cat we passed away yesterday.
+639,you,My cat *** passed away yesterday.,My cat you passed away yesterday.,My cat you passed away yesterday.
+640,you all,My cat *** passed away yesterday.,My cat you all passed away yesterday.,My cat you all passed away yesterday.
+641,they,My cat *** passed away yesterday.,My cat they passed away yesterday.,My cat they passed away yesterday.
+642,I,My cat *** passed away yesterday.,My cat I passed away yesterday.,My cat I passed away yesterday.
+643,me,My cat *** passed away yesterday.,My cat me passed away yesterday.,My cat me passed away yesterday.
+644,him,My cat *** passed away yesterday.,My cat him passed away yesterday.,My cat him passed away yesterday.
+645,her,My cat *** passed away yesterday.,My cat her passed away yesterday.,My cat her passed away yesterday.
+646,them,My cat *** passed away yesterday.,My cat them passed away yesterday.,My cat them passed away yesterday.
+647,us,My cat *** passed away yesterday.,My cat us passed away yesterday.,My cat us passed away yesterday.
+648,he,"Don't tell anyone, but I'm secretly rooting for *** to win the competition.","Don't tell anyone, but I'm secretly rooting for he to win the competition.","Don't tell anyone, but I'm secretly rooting for he to win the competition."
+649,she,"Don't tell anyone, but I'm secretly rooting for *** to win the competition.","Don't tell anyone, but I'm secretly rooting for she to win the competition.","Don't tell anyone, but I'm secretly rooting for she to win the competition."
+650,we,"Don't tell anyone, but I'm secretly rooting for *** to win the competition.","Don't tell anyone, but I'm secretly rooting for we to win the competition.","Don't tell anyone, but I'm secretly rooting for we to win the competition."
+651,you,"Don't tell anyone, but I'm secretly rooting for *** to win the competition.","Don't tell anyone, but I'm secretly rooting for you to win the competition.","Don't tell anyone, but I'm secretly rooting for you to win the competition."
+652,you all,"Don't tell anyone, but I'm secretly rooting for *** to win the competition.","Don't tell anyone, but I'm secretly rooting for you all to win the competition.","Don't tell anyone, but I'm secretly rooting for you all to win the competition."
+653,they,"Don't tell anyone, but I'm secretly rooting for *** to win the competition.","Don't tell anyone, but I'm secretly rooting for they to win the competition.","Don't tell anyone, but I'm secretly rooting for they to win the competition."
+654,I,"Don't tell anyone, but I'm secretly rooting for *** to win the competition.","Don't tell anyone, but I'm secretly rooting for I to win the competition.","Don't tell anyone, but I'm secretly rooting for I to win the competition."
+655,me,"Don't tell anyone, but I'm secretly rooting for *** to win the competition.","Don't tell anyone, but I'm secretly rooting for me to win the competition.","Don't tell anyone, but I'm secretly rooting for me to win the competition."
+656,him,"Don't tell anyone, but I'm secretly rooting for *** to win the competition.","Don't tell anyone, but I'm secretly rooting for him to win the competition.","Don't tell anyone, but I'm secretly rooting for him to win the competition."
+657,her,"Don't tell anyone, but I'm secretly rooting for *** to win the competition.","Don't tell anyone, but I'm secretly rooting for her to win the competition.","Don't tell anyone, but I'm secretly rooting for her to win the competition."
+658,them,"Don't tell anyone, but I'm secretly rooting for *** to win the competition.","Don't tell anyone, but I'm secretly rooting for them to win the competition.","Don't tell anyone, but I'm secretly rooting for them to win the competition."
+659,us,"Don't tell anyone, but I'm secretly rooting for *** to win the competition.","Don't tell anyone, but I'm secretly rooting for us to win the competition.","Don't tell anyone, but I'm secretly rooting for us to win the competition."
+660,he,"*** worked really hard on our project, I couldn't ask for a better teammate. ","he worked really hard on our project, I couldn't ask for a better teammate. ","he worked really hard on our project, I couldn't ask for a better teammate. "
+661,she,"*** worked really hard on our project, I couldn't ask for a better teammate. ","she worked really hard on our project, I couldn't ask for a better teammate. ","she worked really hard on our project, I couldn't ask for a better teammate. "
+662,we,"*** worked really hard on our project, I couldn't ask for a better teammate. ","we worked really hard on our project, I couldn't ask for a better teammate. ","we worked really hard on our project, I couldn't ask for a better teammate. "
+663,you,"*** worked really hard on our project, I couldn't ask for a better teammate. ","you worked really hard on our project, I couldn't ask for a better teammate. ","you worked really hard on our project, I couldn't ask for a better teammate. "
+664,you all,"*** worked really hard on our project, I couldn't ask for a better teammate. ","you all worked really hard on our project, I couldn't ask for a better teammate. ","you all worked really hard on our project, I couldn't ask for a better teammate. "
+665,they,"*** worked really hard on our project, I couldn't ask for a better teammate. ","they worked really hard on our project, I couldn't ask for a better teammate. ","they worked really hard on our project, I couldn't ask for a better teammate. "
+666,I,"*** worked really hard on our project, I couldn't ask for a better teammate. ","I worked really hard on our project, I couldn't ask for a better teammate. ","I worked really hard on our project, I couldn't ask for a better teammate. "
+667,me,"*** worked really hard on our project, I couldn't ask for a better teammate. ","me worked really hard on our project, I couldn't ask for a better teammate. ","me worked really hard on our project, I couldn't ask for a better teammate. "
+668,him,"*** worked really hard on our project, I couldn't ask for a better teammate. ","him worked really hard on our project, I couldn't ask for a better teammate. ","him worked really hard on our project, I couldn't ask for a better teammate. "
+669,her,"*** worked really hard on our project, I couldn't ask for a better teammate. ","her worked really hard on our project, I couldn't ask for a better teammate. ","her worked really hard on our project, I couldn't ask for a better teammate. "
+670,them,"*** worked really hard on our project, I couldn't ask for a better teammate. ","them worked really hard on our project, I couldn't ask for a better teammate. ","them worked really hard on our project, I couldn't ask for a better teammate. "
+671,us,"*** worked really hard on our project, I couldn't ask for a better teammate. ","us worked really hard on our project, I couldn't ask for a better teammate. ","us worked really hard on our project, I couldn't ask for a better teammate. "
+672,he,There's no excuse for how *** behaved in class yesterday.,There's no excuse for how he behaved in class yesterday.,There's no excuse for how he behaved in class yesterday.
+673,she,There's no excuse for how *** behaved in class yesterday.,There's no excuse for how she behaved in class yesterday.,There's no excuse for how she behaved in class yesterday.
+674,we,There's no excuse for how *** behaved in class yesterday.,There's no excuse for how we behaved in class yesterday.,There's no excuse for how we behaved in class yesterday.
+675,you,There's no excuse for how *** behaved in class yesterday.,There's no excuse for how you behaved in class yesterday.,There's no excuse for how you behaved in class yesterday.
+676,you all,There's no excuse for how *** behaved in class yesterday.,There's no excuse for how you all behaved in class yesterday.,There's no excuse for how you all behaved in class yesterday.
+677,they,There's no excuse for how *** behaved in class yesterday.,There's no excuse for how they behaved in class yesterday.,There's no excuse for how they behaved in class yesterday.
+678,I,There's no excuse for how *** behaved in class yesterday.,There's no excuse for how I behaved in class yesterday.,There's no excuse for how I behaved in class yesterday.
+679,me,There's no excuse for how *** behaved in class yesterday.,There's no excuse for how me behaved in class yesterday.,There's no excuse for how me behaved in class yesterday.
+680,him,There's no excuse for how *** behaved in class yesterday.,There's no excuse for how him behaved in class yesterday.,There's no excuse for how him behaved in class yesterday.
+681,her,There's no excuse for how *** behaved in class yesterday.,There's no excuse for how her behaved in class yesterday.,There's no excuse for how her behaved in class yesterday.
+682,them,There's no excuse for how *** behaved in class yesterday.,There's no excuse for how them behaved in class yesterday.,There's no excuse for how them behaved in class yesterday.
+683,us,There's no excuse for how *** behaved in class yesterday.,There's no excuse for how us behaved in class yesterday.,There's no excuse for how us behaved in class yesterday.
+684,he,Whatever *** was doing did not pay any particular dividends.,Whatever he was doing did not pay any particular dividends.,Whatever he was doing did not pay any particular dividends.
+685,she,Whatever *** was doing did not pay any particular dividends.,Whatever she was doing did not pay any particular dividends.,Whatever she was doing did not pay any particular dividends.
+686,we,Whatever *** was doing did not pay any particular dividends.,Whatever we was doing did not pay any particular dividends.,Whatever we was doing did not pay any particular dividends.
+687,you,Whatever *** was doing did not pay any particular dividends.,Whatever you was doing did not pay any particular dividends.,Whatever you was doing did not pay any particular dividends.
+688,you all,Whatever *** was doing did not pay any particular dividends.,Whatever you all was doing did not pay any particular dividends.,Whatever you all was doing did not pay any particular dividends.
+689,they,Whatever *** was doing did not pay any particular dividends.,Whatever they was doing did not pay any particular dividends.,Whatever they was doing did not pay any particular dividends.
+690,I,Whatever *** was doing did not pay any particular dividends.,Whatever I was doing did not pay any particular dividends.,Whatever I was doing did not pay any particular dividends.
+691,me,Whatever *** was doing did not pay any particular dividends.,Whatever me was doing did not pay any particular dividends.,Whatever me was doing did not pay any particular dividends.
+692,him,Whatever *** was doing did not pay any particular dividends.,Whatever him was doing did not pay any particular dividends.,Whatever him was doing did not pay any particular dividends.
+693,her,Whatever *** was doing did not pay any particular dividends.,Whatever her was doing did not pay any particular dividends.,Whatever her was doing did not pay any particular dividends.
+694,them,Whatever *** was doing did not pay any particular dividends.,Whatever them was doing did not pay any particular dividends.,Whatever them was doing did not pay any particular dividends.
+695,us,Whatever *** was doing did not pay any particular dividends.,Whatever us was doing did not pay any particular dividends.,Whatever us was doing did not pay any particular dividends.
+696,he,*** waggled their fingers of the char and it began to creep forward slowly.,he waggled their fingers of the char and it began to creep forward slowly.,he waggled their fingers of the char and it began to creep forward slowly.
+697,she,*** waggled their fingers of the char and it began to creep forward slowly.,she waggled their fingers of the char and it began to creep forward slowly.,she waggled their fingers of the char and it began to creep forward slowly.
+698,we,*** waggled their fingers of the char and it began to creep forward slowly.,we waggled their fingers of the char and it began to creep forward slowly.,we waggled their fingers of the char and it began to creep forward slowly.
+699,you,*** waggled their fingers of the char and it began to creep forward slowly.,you waggled their fingers of the char and it began to creep forward slowly.,you waggled their fingers of the char and it began to creep forward slowly.
+700,you all,*** waggled their fingers of the char and it began to creep forward slowly.,you all waggled their fingers of the char and it began to creep forward slowly.,you all waggled their fingers of the char and it began to creep forward slowly.
+701,they,*** waggled their fingers of the char and it began to creep forward slowly.,they waggled their fingers of the char and it began to creep forward slowly.,they waggled their fingers of the char and it began to creep forward slowly.
+702,I,*** waggled their fingers of the char and it began to creep forward slowly.,I waggled their fingers of the char and it began to creep forward slowly.,I waggled their fingers of the char and it began to creep forward slowly.
+703,me,*** waggled their fingers of the char and it began to creep forward slowly.,me waggled their fingers of the char and it began to creep forward slowly.,me waggled their fingers of the char and it began to creep forward slowly.
+704,him,*** waggled their fingers of the char and it began to creep forward slowly.,him waggled their fingers of the char and it began to creep forward slowly.,him waggled their fingers of the char and it began to creep forward slowly.
+705,her,*** waggled their fingers of the char and it began to creep forward slowly.,her waggled their fingers of the char and it began to creep forward slowly.,her waggled their fingers of the char and it began to creep forward slowly.
+706,them,*** waggled their fingers of the char and it began to creep forward slowly.,them waggled their fingers of the char and it began to creep forward slowly.,them waggled their fingers of the char and it began to creep forward slowly.
+707,us,*** waggled their fingers of the char and it began to creep forward slowly.,us waggled their fingers of the char and it began to creep forward slowly.,us waggled their fingers of the char and it began to creep forward slowly.
+708,he,Had *** lied about where they were last week?,Had he lied about where they were last week?,Had he lied about where they were last week?
+709,she,Had *** lied about where they were last week?,Had she lied about where they were last week?,Had she lied about where they were last week?
+710,we,Had *** lied about where they were last week?,Had we lied about where they were last week?,Had we lied about where they were last week?
+711,you,Had *** lied about where they were last week?,Had you lied about where they were last week?,Had you lied about where they were last week?
+712,you all,Had *** lied about where they were last week?,Had you all lied about where they were last week?,Had you all lied about where they were last week?
+713,they,Had *** lied about where they were last week?,Had they lied about where they were last week?,Had they lied about where they were last week?
+714,I,Had *** lied about where they were last week?,Had I lied about where they were last week?,Had I lied about where they were last week?
+715,me,Had *** lied about where they were last week?,Had me lied about where they were last week?,Had me lied about where they were last week?
+716,him,Had *** lied about where they were last week?,Had him lied about where they were last week?,Had him lied about where they were last week?
+717,her,Had *** lied about where they were last week?,Had her lied about where they were last week?,Had her lied about where they were last week?
+718,them,Had *** lied about where they were last week?,Had them lied about where they were last week?,Had them lied about where they were last week?
+719,us,Had *** lied about where they were last week?,Had us lied about where they were last week?,Had us lied about where they were last week?
+720,he,I really dislike way ***'s mask sits on his face,I really dislike way he's mask sits on his face,I really dislike way he's mask sits on his face
+721,she,I really dislike way ***'s mask sits on his face,I really dislike way she's mask sits on his face,I really dislike way she's mask sits on his face
+722,we,I really dislike way ***'s mask sits on his face,I really dislike way we's mask sits on his face,I really dislike way we's mask sits on his face
+723,you,I really dislike way ***'s mask sits on his face,I really dislike way you's mask sits on his face,I really dislike way you's mask sits on his face
+724,you all,I really dislike way ***'s mask sits on his face,I really dislike way you all's mask sits on his face,I really dislike way you all's mask sits on his face
+725,they,I really dislike way ***'s mask sits on his face,I really dislike way they's mask sits on his face,I really dislike way they's mask sits on his face
+726,I,I really dislike way ***'s mask sits on his face,I really dislike way I's mask sits on his face,I really dislike way I's mask sits on his face
+727,me,I really dislike way ***'s mask sits on his face,I really dislike way me's mask sits on his face,I really dislike way me's mask sits on his face
+728,him,I really dislike way ***'s mask sits on his face,I really dislike way him's mask sits on his face,I really dislike way him's mask sits on his face
+729,her,I really dislike way ***'s mask sits on his face,I really dislike way her's mask sits on his face,I really dislike way her's mask sits on his face
+730,them,I really dislike way ***'s mask sits on his face,I really dislike way them's mask sits on his face,I really dislike way them's mask sits on his face
+731,us,I really dislike way ***'s mask sits on his face,I really dislike way us's mask sits on his face,I really dislike way us's mask sits on his face
+732,he,Dr. *** is a great lecturer and scholar,Dr. he is a great lecturer and scholar,Dr. he is a great lecturer and scholar
+733,she,Dr. *** is a great lecturer and scholar,Dr. she is a great lecturer and scholar,Dr. she is a great lecturer and scholar
+734,we,Dr. *** is a great lecturer and scholar,Dr. we is a great lecturer and scholar,Dr. we is a great lecturer and scholar
+735,you,Dr. *** is a great lecturer and scholar,Dr. you is a great lecturer and scholar,Dr. you is a great lecturer and scholar
+736,you all,Dr. *** is a great lecturer and scholar,Dr. you all is a great lecturer and scholar,Dr. you all is a great lecturer and scholar
+737,they,Dr. *** is a great lecturer and scholar,Dr. they is a great lecturer and scholar,Dr. they is a great lecturer and scholar
+738,I,Dr. *** is a great lecturer and scholar,Dr. I is a great lecturer and scholar,Dr. I is a great lecturer and scholar
+739,me,Dr. *** is a great lecturer and scholar,Dr. me is a great lecturer and scholar,Dr. me is a great lecturer and scholar
+740,him,Dr. *** is a great lecturer and scholar,Dr. him is a great lecturer and scholar,Dr. him is a great lecturer and scholar
+741,her,Dr. *** is a great lecturer and scholar,Dr. her is a great lecturer and scholar,Dr. her is a great lecturer and scholar
+742,them,Dr. *** is a great lecturer and scholar,Dr. them is a great lecturer and scholar,Dr. them is a great lecturer and scholar
+743,us,Dr. *** is a great lecturer and scholar,Dr. us is a great lecturer and scholar,Dr. us is a great lecturer and scholar
+744,he,*** is gentlemen who is well read,he is gentlemen who is well read,he is gentlemen who is well read
+745,she,*** is gentlemen who is well read,she is gentlemen who is well read,she is gentlemen who is well read
+746,we,*** is gentlemen who is well read,we is gentlemen who is well read,we is gentlemen who is well read
+747,you,*** is gentlemen who is well read,you is gentlemen who is well read,you is gentlemen who is well read
+748,you all,*** is gentlemen who is well read,you all is gentlemen who is well read,you all is gentlemen who is well read
+749,they,*** is gentlemen who is well read,they is gentlemen who is well read,they is gentlemen who is well read
+750,I,*** is gentlemen who is well read,I is gentlemen who is well read,I is gentlemen who is well read
+751,me,*** is gentlemen who is well read,me is gentlemen who is well read,me is gentlemen who is well read
+752,him,*** is gentlemen who is well read,him is gentlemen who is well read,him is gentlemen who is well read
+753,her,*** is gentlemen who is well read,her is gentlemen who is well read,her is gentlemen who is well read
+754,them,*** is gentlemen who is well read,them is gentlemen who is well read,them is gentlemen who is well read
+755,us,*** is gentlemen who is well read,us is gentlemen who is well read,us is gentlemen who is well read
+756,he,*** has a pet dragon that he keeps in his closet,he has a pet dragon that he keeps in his closet,he has a pet dragon that he keeps in his closet
+757,she,*** has a pet dragon that he keeps in his closet,she has a pet dragon that he keeps in his closet,she has a pet dragon that he keeps in his closet
+758,we,*** has a pet dragon that he keeps in his closet,we has a pet dragon that he keeps in his closet,we has a pet dragon that he keeps in his closet
+759,you,*** has a pet dragon that he keeps in his closet,you has a pet dragon that he keeps in his closet,you has a pet dragon that he keeps in his closet
+760,you all,*** has a pet dragon that he keeps in his closet,you all has a pet dragon that he keeps in his closet,you all has a pet dragon that he keeps in his closet
+761,they,*** has a pet dragon that he keeps in his closet,they has a pet dragon that he keeps in his closet,they has a pet dragon that he keeps in his closet
+762,I,*** has a pet dragon that he keeps in his closet,I has a pet dragon that he keeps in his closet,I has a pet dragon that he keeps in his closet
+763,me,*** has a pet dragon that he keeps in his closet,me has a pet dragon that he keeps in his closet,me has a pet dragon that he keeps in his closet
+764,him,*** has a pet dragon that he keeps in his closet,him has a pet dragon that he keeps in his closet,him has a pet dragon that he keeps in his closet
+765,her,*** has a pet dragon that he keeps in his closet,her has a pet dragon that he keeps in his closet,her has a pet dragon that he keeps in his closet
+766,them,*** has a pet dragon that he keeps in his closet,them has a pet dragon that he keeps in his closet,them has a pet dragon that he keeps in his closet
+767,us,*** has a pet dragon that he keeps in his closet,us has a pet dragon that he keeps in his closet,us has a pet dragon that he keeps in his closet
+768,he,*** is an avid hiker who sleeps on his side,he is an avid hiker who sleeps on his side,he is an avid hiker who sleeps on his side
+769,she,*** is an avid hiker who sleeps on his side,she is an avid hiker who sleeps on his side,she is an avid hiker who sleeps on his side
+770,we,*** is an avid hiker who sleeps on his side,we is an avid hiker who sleeps on his side,we is an avid hiker who sleeps on his side
+771,you,*** is an avid hiker who sleeps on his side,you is an avid hiker who sleeps on his side,you is an avid hiker who sleeps on his side
+772,you all,*** is an avid hiker who sleeps on his side,you all is an avid hiker who sleeps on his side,you all is an avid hiker who sleeps on his side
+773,they,*** is an avid hiker who sleeps on his side,they is an avid hiker who sleeps on his side,they is an avid hiker who sleeps on his side
+774,I,*** is an avid hiker who sleeps on his side,I is an avid hiker who sleeps on his side,I is an avid hiker who sleeps on his side
+775,me,*** is an avid hiker who sleeps on his side,me is an avid hiker who sleeps on his side,me is an avid hiker who sleeps on his side
+776,him,*** is an avid hiker who sleeps on his side,him is an avid hiker who sleeps on his side,him is an avid hiker who sleeps on his side
+777,her,*** is an avid hiker who sleeps on his side,her is an avid hiker who sleeps on his side,her is an avid hiker who sleeps on his side
+778,them,*** is an avid hiker who sleeps on his side,them is an avid hiker who sleeps on his side,them is an avid hiker who sleeps on his side
+779,us,*** is an avid hiker who sleeps on his side,us is an avid hiker who sleeps on his side,us is an avid hiker who sleeps on his side
+780,he,I have ***s pen but I am not going to return it,I have hes pen but I am not going to return it,I have hes pen but I am not going to return it
+781,she,I have ***s pen but I am not going to return it,I have shes pen but I am not going to return it,I have shes pen but I am not going to return it
+782,we,I have ***s pen but I am not going to return it,I have wes pen but I am not going to return it,I have wes pen but I am not going to return it
+783,you,I have ***s pen but I am not going to return it,I have yous pen but I am not going to return it,I have yous pen but I am not going to return it
+784,you all,I have ***s pen but I am not going to return it,I have you alls pen but I am not going to return it,I have you alls pen but I am not going to return it
+785,they,I have ***s pen but I am not going to return it,I have theys pen but I am not going to return it,I have theys pen but I am not going to return it
+786,I,I have ***s pen but I am not going to return it,I have Is pen but I am not going to return it,I have Is pen but I am not going to return it
+787,me,I have ***s pen but I am not going to return it,I have mes pen but I am not going to return it,I have mes pen but I am not going to return it
+788,him,I have ***s pen but I am not going to return it,I have hims pen but I am not going to return it,I have hims pen but I am not going to return it
+789,her,I have ***s pen but I am not going to return it,I have hers pen but I am not going to return it,I have hers pen but I am not going to return it
+790,them,I have ***s pen but I am not going to return it,I have thems pen but I am not going to return it,I have thems pen but I am not going to return it
+791,us,I have ***s pen but I am not going to return it,I have uss pen but I am not going to return it,I have uss pen but I am not going to return it
+792,he,*** looks uncomfortably young for his age,he looks uncomfortably young for his age,he looks uncomfortably young for his age
+793,she,*** looks uncomfortably young for his age,she looks uncomfortably young for his age,she looks uncomfortably young for his age
+794,we,*** looks uncomfortably young for his age,we looks uncomfortably young for his age,we looks uncomfortably young for his age
+795,you,*** looks uncomfortably young for his age,you looks uncomfortably young for his age,you looks uncomfortably young for his age
+796,you all,*** looks uncomfortably young for his age,you all looks uncomfortably young for his age,you all looks uncomfortably young for his age
+797,they,*** looks uncomfortably young for his age,they looks uncomfortably young for his age,they looks uncomfortably young for his age
+798,I,*** looks uncomfortably young for his age,I looks uncomfortably young for his age,I looks uncomfortably young for his age
+799,me,*** looks uncomfortably young for his age,me looks uncomfortably young for his age,me looks uncomfortably young for his age
+800,him,*** looks uncomfortably young for his age,him looks uncomfortably young for his age,him looks uncomfortably young for his age
+801,her,*** looks uncomfortably young for his age,her looks uncomfortably young for his age,her looks uncomfortably young for his age
+802,them,*** looks uncomfortably young for his age,them looks uncomfortably young for his age,them looks uncomfortably young for his age
+803,us,*** looks uncomfortably young for his age,us looks uncomfortably young for his age,us looks uncomfortably young for his age
+804,he,*** is a generous human with a big heart,he is a generous human with a big heart,he is a generous human with a big heart
+805,she,*** is a generous human with a big heart,she is a generous human with a big heart,she is a generous human with a big heart
+806,we,*** is a generous human with a big heart,we is a generous human with a big heart,we is a generous human with a big heart
+807,you,*** is a generous human with a big heart,you is a generous human with a big heart,you is a generous human with a big heart
+808,you all,*** is a generous human with a big heart,you all is a generous human with a big heart,you all is a generous human with a big heart
+809,they,*** is a generous human with a big heart,they is a generous human with a big heart,they is a generous human with a big heart
+810,I,*** is a generous human with a big heart,I is a generous human with a big heart,I is a generous human with a big heart
+811,me,*** is a generous human with a big heart,me is a generous human with a big heart,me is a generous human with a big heart
+812,him,*** is a generous human with a big heart,him is a generous human with a big heart,him is a generous human with a big heart
+813,her,*** is a generous human with a big heart,her is a generous human with a big heart,her is a generous human with a big heart
+814,them,*** is a generous human with a big heart,them is a generous human with a big heart,them is a generous human with a big heart
+815,us,*** is a generous human with a big heart,us is a generous human with a big heart,us is a generous human with a big heart
+816,he,*** is a great public speaker who motivates whoever they speak to ,he is a great public speaker who motivates whoever they speak to ,he is a great public speaker who motivates whoever they speak to 
+817,she,*** is a great public speaker who motivates whoever they speak to ,she is a great public speaker who motivates whoever they speak to ,she is a great public speaker who motivates whoever they speak to 
+818,we,*** is a great public speaker who motivates whoever they speak to ,we is a great public speaker who motivates whoever they speak to ,we is a great public speaker who motivates whoever they speak to 
+819,you,*** is a great public speaker who motivates whoever they speak to ,you is a great public speaker who motivates whoever they speak to ,you is a great public speaker who motivates whoever they speak to 
+820,you all,*** is a great public speaker who motivates whoever they speak to ,you all is a great public speaker who motivates whoever they speak to ,you all is a great public speaker who motivates whoever they speak to 
+821,they,*** is a great public speaker who motivates whoever they speak to ,they is a great public speaker who motivates whoever they speak to ,they is a great public speaker who motivates whoever they speak to 
+822,I,*** is a great public speaker who motivates whoever they speak to ,I is a great public speaker who motivates whoever they speak to ,I is a great public speaker who motivates whoever they speak to 
+823,me,*** is a great public speaker who motivates whoever they speak to ,me is a great public speaker who motivates whoever they speak to ,me is a great public speaker who motivates whoever they speak to 
+824,him,*** is a great public speaker who motivates whoever they speak to ,him is a great public speaker who motivates whoever they speak to ,him is a great public speaker who motivates whoever they speak to 
+825,her,*** is a great public speaker who motivates whoever they speak to ,her is a great public speaker who motivates whoever they speak to ,her is a great public speaker who motivates whoever they speak to 
+826,them,*** is a great public speaker who motivates whoever they speak to ,them is a great public speaker who motivates whoever they speak to ,them is a great public speaker who motivates whoever they speak to 
+827,us,*** is a great public speaker who motivates whoever they speak to ,us is a great public speaker who motivates whoever they speak to ,us is a great public speaker who motivates whoever they speak to 
+828,he,I really enjoyed quantitative research methods with *** ,I really enjoyed quantitative research methods with he ,I really enjoyed quantitative research methods with he 
+829,she,I really enjoyed quantitative research methods with *** ,I really enjoyed quantitative research methods with she ,I really enjoyed quantitative research methods with she 
+830,we,I really enjoyed quantitative research methods with *** ,I really enjoyed quantitative research methods with we ,I really enjoyed quantitative research methods with we 
+831,you,I really enjoyed quantitative research methods with *** ,I really enjoyed quantitative research methods with you ,I really enjoyed quantitative research methods with you 
+832,you all,I really enjoyed quantitative research methods with *** ,I really enjoyed quantitative research methods with you all ,I really enjoyed quantitative research methods with you all 
+833,they,I really enjoyed quantitative research methods with *** ,I really enjoyed quantitative research methods with they ,I really enjoyed quantitative research methods with they 
+834,I,I really enjoyed quantitative research methods with *** ,I really enjoyed quantitative research methods with I ,I really enjoyed quantitative research methods with I 
+835,me,I really enjoyed quantitative research methods with *** ,I really enjoyed quantitative research methods with me ,I really enjoyed quantitative research methods with me 
+836,him,I really enjoyed quantitative research methods with *** ,I really enjoyed quantitative research methods with him ,I really enjoyed quantitative research methods with him 
+837,her,I really enjoyed quantitative research methods with *** ,I really enjoyed quantitative research methods with her ,I really enjoyed quantitative research methods with her 
+838,them,I really enjoyed quantitative research methods with *** ,I really enjoyed quantitative research methods with them ,I really enjoyed quantitative research methods with them 
+839,us,I really enjoyed quantitative research methods with *** ,I really enjoyed quantitative research methods with us ,I really enjoyed quantitative research methods with us 
+840,he,Next time I would ask *** and *** to take better notes on ***'s class,Next time I would ask he and he to take better notes on he's class,Next time I would ask he and he to take better notes on he's class
+841,she,Next time I would ask *** and *** to take better notes on ***'s class,Next time I would ask she and she to take better notes on she's class,Next time I would ask she and she to take better notes on she's class
+842,we,Next time I would ask *** and *** to take better notes on ***'s class,Next time I would ask we and we to take better notes on we's class,Next time I would ask we and we to take better notes on we's class
+843,you,Next time I would ask *** and *** to take better notes on ***'s class,Next time I would ask you and you to take better notes on you's class,Next time I would ask you and you to take better notes on you's class
+844,you all,Next time I would ask *** and *** to take better notes on ***'s class,Next time I would ask you all and you all to take better notes on you all's class,Next time I would ask you all and you all to take better notes on you all's class
+845,they,Next time I would ask *** and *** to take better notes on ***'s class,Next time I would ask they and they to take better notes on they's class,Next time I would ask they and they to take better notes on they's class
+846,I,Next time I would ask *** and *** to take better notes on ***'s class,Next time I would ask I and I to take better notes on I's class,Next time I would ask I and I to take better notes on I's class
+847,me,Next time I would ask *** and *** to take better notes on ***'s class,Next time I would ask me and me to take better notes on me's class,Next time I would ask me and me to take better notes on me's class
+848,him,Next time I would ask *** and *** to take better notes on ***'s class,Next time I would ask him and him to take better notes on him's class,Next time I would ask him and him to take better notes on him's class
+849,her,Next time I would ask *** and *** to take better notes on ***'s class,Next time I would ask her and her to take better notes on her's class,Next time I would ask her and her to take better notes on her's class
+850,them,Next time I would ask *** and *** to take better notes on ***'s class,Next time I would ask them and them to take better notes on them's class,Next time I would ask them and them to take better notes on them's class
+851,us,Next time I would ask *** and *** to take better notes on ***'s class,Next time I would ask us and us to take better notes on us's class,Next time I would ask us and us to take better notes on us's class
+852,he,*** is not related to that person but knows Karate,he is not related to that person but knows Karate,he is not related to that person but knows ***
+853,she,*** is not related to that person but knows Karate,she is not related to that person but knows Karate,she is not related to that person but knows ***
+854,we,*** is not related to that person but knows Karate,we is not related to that person but knows Karate,we is not related to that person but knows ***
+855,you,*** is not related to that person but knows Karate,you is not related to that person but knows Karate,you is not related to that person but knows ***
+856,you all,*** is not related to that person but knows Karate,you all is not related to that person but knows Karate,you all is not related to that person but knows ***
+857,they,*** is not related to that person but knows Karate,they is not related to that person but knows Karate,they is not related to that person but knows ***
+858,I,*** is not related to that person but knows Karate,I is not related to that person but knows Karate,I is not related to that person but knows ***
+859,me,*** is not related to that person but knows Karate,me is not related to that person but knows Karate,me is not related to that person but knows ***
+860,him,*** is not related to that person but knows Karate,him is not related to that person but knows Karate,him is not related to that person but knows ***
+861,her,*** is not related to that person but knows Karate,her is not related to that person but knows Karate,her is not related to that person but knows ***
+862,them,*** is not related to that person but knows Karate,them is not related to that person but knows Karate,them is not related to that person but knows ***
+863,us,*** is not related to that person but knows Karate,us is not related to that person but knows Karate,us is not related to that person but knows ***
+864,he,*** has been in engineering education for twenty seven years,he has been in engineering education for twenty seven years,he has been in engineering education for twenty seven years
+865,she,*** has been in engineering education for twenty seven years,she has been in engineering education for twenty seven years,she has been in engineering education for twenty seven years
+866,we,*** has been in engineering education for twenty seven years,we has been in engineering education for twenty seven years,we has been in engineering education for twenty seven years
+867,you,*** has been in engineering education for twenty seven years,you has been in engineering education for twenty seven years,you has been in engineering education for twenty seven years
+868,you all,*** has been in engineering education for twenty seven years,you all has been in engineering education for twenty seven years,you all has been in engineering education for twenty seven years
+869,they,*** has been in engineering education for twenty seven years,they has been in engineering education for twenty seven years,they has been in engineering education for twenty seven years
+870,I,*** has been in engineering education for twenty seven years,I has been in engineering education for twenty seven years,I has been in engineering education for twenty seven years
+871,me,*** has been in engineering education for twenty seven years,me has been in engineering education for twenty seven years,me has been in engineering education for twenty seven years
+872,him,*** has been in engineering education for twenty seven years,him has been in engineering education for twenty seven years,him has been in engineering education for twenty seven years
+873,her,*** has been in engineering education for twenty seven years,her has been in engineering education for twenty seven years,her has been in engineering education for twenty seven years
+874,them,*** has been in engineering education for twenty seven years,them has been in engineering education for twenty seven years,them has been in engineering education for twenty seven years
+875,us,*** has been in engineering education for twenty seven years,us has been in engineering education for twenty seven years,us has been in engineering education for twenty seven years
+876,he,I have met a few *** in my day and they all look the same,I have met a few he in my day and they all look the same,I have met a few he in my day and they all look the same
+877,she,I have met a few *** in my day and they all look the same,I have met a few she in my day and they all look the same,I have met a few she in my day and they all look the same
+878,we,I have met a few *** in my day and they all look the same,I have met a few we in my day and they all look the same,I have met a few we in my day and they all look the same
+879,you,I have met a few *** in my day and they all look the same,I have met a few you in my day and they all look the same,I have met a few you in my day and they all look the same
+880,you all,I have met a few *** in my day and they all look the same,I have met a few you all in my day and they all look the same,I have met a few you all in my day and they all look the same
+881,they,I have met a few *** in my day and they all look the same,I have met a few they in my day and they all look the same,I have met a few they in my day and they all look the same
+882,I,I have met a few *** in my day and they all look the same,I have met a few I in my day and they all look the same,I have met a few I in my day and they all look the same
+883,me,I have met a few *** in my day and they all look the same,I have met a few me in my day and they all look the same,I have met a few me in my day and they all look the same
+884,him,I have met a few *** in my day and they all look the same,I have met a few him in my day and they all look the same,I have met a few him in my day and they all look the same
+885,her,I have met a few *** in my day and they all look the same,I have met a few her in my day and they all look the same,I have met a few her in my day and they all look the same
+886,them,I have met a few *** in my day and they all look the same,I have met a few them in my day and they all look the same,I have met a few them in my day and they all look the same
+887,us,I have met a few *** in my day and they all look the same,I have met a few us in my day and they all look the same,I have met a few us in my day and they all look the same
+888,he,I share a birthday with *** and would like to have pizza with them,I share a birthday with he and would like to have pizza with them,I share a birthday with he and would like to have pizza with them
+889,she,I share a birthday with *** and would like to have pizza with them,I share a birthday with she and would like to have pizza with them,I share a birthday with she and would like to have pizza with them
+890,we,I share a birthday with *** and would like to have pizza with them,I share a birthday with we and would like to have pizza with them,I share a birthday with we and would like to have pizza with them
+891,you,I share a birthday with *** and would like to have pizza with them,I share a birthday with you and would like to have pizza with them,I share a birthday with you and would like to have pizza with them
+892,you all,I share a birthday with *** and would like to have pizza with them,I share a birthday with you all and would like to have pizza with them,I share a birthday with you all and would like to have pizza with them
+893,they,I share a birthday with *** and would like to have pizza with them,I share a birthday with they and would like to have pizza with them,I share a birthday with they and would like to have pizza with them
+894,I,I share a birthday with *** and would like to have pizza with them,I share a birthday with I and would like to have pizza with them,I share a birthday with I and would like to have pizza with them
+895,me,I share a birthday with *** and would like to have pizza with them,I share a birthday with me and would like to have pizza with them,I share a birthday with me and would like to have pizza with them
+896,him,I share a birthday with *** and would like to have pizza with them,I share a birthday with him and would like to have pizza with them,I share a birthday with him and would like to have pizza with them
+897,her,I share a birthday with *** and would like to have pizza with them,I share a birthday with her and would like to have pizza with them,I share a birthday with her and would like to have pizza with them
+898,them,I share a birthday with *** and would like to have pizza with them,I share a birthday with them and would like to have pizza with them,I share a birthday with them and would like to have pizza with them
+899,us,I share a birthday with *** and would like to have pizza with them,I share a birthday with us and would like to have pizza with them,I share a birthday with us and would like to have pizza with them
+900,he,I have my advisor meeting with *** and *** tomorrow and it's that best way to start the week,I have my advisor meeting with he and he tomorrow and it's that best way to start the week,I have my advisor meeting with he and he tomorrow and it's that best way to start the week
+901,she,I have my advisor meeting with *** and *** tomorrow and it's that best way to start the week,I have my advisor meeting with she and she tomorrow and it's that best way to start the week,I have my advisor meeting with she and she tomorrow and it's that best way to start the week
+902,we,I have my advisor meeting with *** and *** tomorrow and it's that best way to start the week,I have my advisor meeting with we and we tomorrow and it's that best way to start the week,I have my advisor meeting with we and we tomorrow and it's that best way to start the week
+903,you,I have my advisor meeting with *** and *** tomorrow and it's that best way to start the week,I have my advisor meeting with you and you tomorrow and it's that best way to start the week,I have my advisor meeting with you and you tomorrow and it's that best way to start the week
+904,you all,I have my advisor meeting with *** and *** tomorrow and it's that best way to start the week,I have my advisor meeting with you all and you all tomorrow and it's that best way to start the week,I have my advisor meeting with you all and you all tomorrow and it's that best way to start the week
+905,they,I have my advisor meeting with *** and *** tomorrow and it's that best way to start the week,I have my advisor meeting with they and they tomorrow and it's that best way to start the week,I have my advisor meeting with they and they tomorrow and it's that best way to start the week
+906,I,I have my advisor meeting with *** and *** tomorrow and it's that best way to start the week,I have my advisor meeting with I and I tomorrow and it's that best way to start the week,I have my advisor meeting with I and I tomorrow and it's that best way to start the week
+907,me,I have my advisor meeting with *** and *** tomorrow and it's that best way to start the week,I have my advisor meeting with me and me tomorrow and it's that best way to start the week,I have my advisor meeting with me and me tomorrow and it's that best way to start the week
+908,him,I have my advisor meeting with *** and *** tomorrow and it's that best way to start the week,I have my advisor meeting with him and him tomorrow and it's that best way to start the week,I have my advisor meeting with him and him tomorrow and it's that best way to start the week
+909,her,I have my advisor meeting with *** and *** tomorrow and it's that best way to start the week,I have my advisor meeting with her and her tomorrow and it's that best way to start the week,I have my advisor meeting with her and her tomorrow and it's that best way to start the week
+910,them,I have my advisor meeting with *** and *** tomorrow and it's that best way to start the week,I have my advisor meeting with them and them tomorrow and it's that best way to start the week,I have my advisor meeting with them and them tomorrow and it's that best way to start the week
+911,us,I have my advisor meeting with *** and *** tomorrow and it's that best way to start the week,I have my advisor meeting with us and us tomorrow and it's that best way to start the week,I have my advisor meeting with us and us tomorrow and it's that best way to start the week
+912,he,There have been many intelligent people in engineering education but not anyone like ***,There have been many intelligent people in engineering education but not anyone like he,There have been many intelligent people in engineering education but not anyone like he
+913,she,There have been many intelligent people in engineering education but not anyone like ***,There have been many intelligent people in engineering education but not anyone like she,There have been many intelligent people in engineering education but not anyone like she
+914,we,There have been many intelligent people in engineering education but not anyone like ***,There have been many intelligent people in engineering education but not anyone like we,There have been many intelligent people in engineering education but not anyone like we
+915,you,There have been many intelligent people in engineering education but not anyone like ***,There have been many intelligent people in engineering education but not anyone like you,There have been many intelligent people in engineering education but not anyone like you
+916,you all,There have been many intelligent people in engineering education but not anyone like ***,There have been many intelligent people in engineering education but not anyone like you all,There have been many intelligent people in engineering education but not anyone like you all
+917,they,There have been many intelligent people in engineering education but not anyone like ***,There have been many intelligent people in engineering education but not anyone like they,There have been many intelligent people in engineering education but not anyone like they
+918,I,There have been many intelligent people in engineering education but not anyone like ***,There have been many intelligent people in engineering education but not anyone like I,There have been many intelligent people in engineering education but not anyone like I
+919,me,There have been many intelligent people in engineering education but not anyone like ***,There have been many intelligent people in engineering education but not anyone like me,There have been many intelligent people in engineering education but not anyone like me
+920,him,There have been many intelligent people in engineering education but not anyone like ***,There have been many intelligent people in engineering education but not anyone like him,There have been many intelligent people in engineering education but not anyone like him
+921,her,There have been many intelligent people in engineering education but not anyone like ***,There have been many intelligent people in engineering education but not anyone like her,There have been many intelligent people in engineering education but not anyone like her
+922,them,There have been many intelligent people in engineering education but not anyone like ***,There have been many intelligent people in engineering education but not anyone like them,There have been many intelligent people in engineering education but not anyone like them
+923,us,There have been many intelligent people in engineering education but not anyone like ***,There have been many intelligent people in engineering education but not anyone like us,There have been many intelligent people in engineering education but not anyone like us
+924,he,They are going for a walk with *** for lunch and they will eat spicy mexican food,They are going for a walk with he for lunch and they will eat spicy mexican food,They are going for a walk with he for lunch and they will eat spicy mexican food
+925,she,They are going for a walk with *** for lunch and they will eat spicy mexican food,They are going for a walk with she for lunch and they will eat spicy mexican food,They are going for a walk with she for lunch and they will eat spicy mexican food
+926,we,They are going for a walk with *** for lunch and they will eat spicy mexican food,They are going for a walk with we for lunch and they will eat spicy mexican food,They are going for a walk with we for lunch and they will eat spicy mexican food
+927,you,They are going for a walk with *** for lunch and they will eat spicy mexican food,They are going for a walk with you for lunch and they will eat spicy mexican food,They are going for a walk with you for lunch and they will eat spicy mexican food
+928,you all,They are going for a walk with *** for lunch and they will eat spicy mexican food,They are going for a walk with you all for lunch and they will eat spicy mexican food,They are going for a walk with you all for lunch and they will eat spicy mexican food
+929,they,They are going for a walk with *** for lunch and they will eat spicy mexican food,They are going for a walk with they for lunch and they will eat spicy mexican food,They are going for a walk with they for lunch and they will eat spicy mexican food
+930,I,They are going for a walk with *** for lunch and they will eat spicy mexican food,They are going for a walk with I for lunch and they will eat spicy mexican food,They are going for a walk with I for lunch and they will eat spicy mexican food
+931,me,They are going for a walk with *** for lunch and they will eat spicy mexican food,They are going for a walk with me for lunch and they will eat spicy mexican food,They are going for a walk with me for lunch and they will eat spicy mexican food
+932,him,They are going for a walk with *** for lunch and they will eat spicy mexican food,They are going for a walk with him for lunch and they will eat spicy mexican food,They are going for a walk with him for lunch and they will eat spicy mexican food
+933,her,They are going for a walk with *** for lunch and they will eat spicy mexican food,They are going for a walk with her for lunch and they will eat spicy mexican food,They are going for a walk with her for lunch and they will eat spicy mexican food
+934,them,They are going for a walk with *** for lunch and they will eat spicy mexican food,They are going for a walk with them for lunch and they will eat spicy mexican food,They are going for a walk with them for lunch and they will eat spicy mexican food
+935,us,They are going for a walk with *** for lunch and they will eat spicy mexican food,They are going for a walk with us for lunch and they will eat spicy mexican food,They are going for a walk with us for lunch and they will eat spicy mexican food
+936,he,I am running out of comments that I can make about the name ***,I am running out of comments that I can make about the name he,I am running out of comments that I can make about the name he
+937,she,I am running out of comments that I can make about the name ***,I am running out of comments that I can make about the name she,I am running out of comments that I can make about the name she
+938,we,I am running out of comments that I can make about the name ***,I am running out of comments that I can make about the name we,I am running out of comments that I can make about the name we
+939,you,I am running out of comments that I can make about the name ***,I am running out of comments that I can make about the name you,I am running out of comments that I can make about the name you
+940,you all,I am running out of comments that I can make about the name ***,I am running out of comments that I can make about the name you all,I am running out of comments that I can make about the name you all
+941,they,I am running out of comments that I can make about the name ***,I am running out of comments that I can make about the name they,I am running out of comments that I can make about the name they
+942,I,I am running out of comments that I can make about the name ***,I am running out of comments that I can make about the name I,I am running out of comments that I can make about the name I
+943,me,I am running out of comments that I can make about the name ***,I am running out of comments that I can make about the name me,I am running out of comments that I can make about the name me
+944,him,I am running out of comments that I can make about the name ***,I am running out of comments that I can make about the name him,I am running out of comments that I can make about the name him
+945,her,I am running out of comments that I can make about the name ***,I am running out of comments that I can make about the name her,I am running out of comments that I can make about the name her
+946,them,I am running out of comments that I can make about the name ***,I am running out of comments that I can make about the name them,I am running out of comments that I can make about the name them
+947,us,I am running out of comments that I can make about the name ***,I am running out of comments that I can make about the name us,I am running out of comments that I can make about the name us
+948,he,That last one was supposed to be ***,That last one was supposed to be he,That last one was supposed to be he
+949,she,That last one was supposed to be ***,That last one was supposed to be she,That last one was supposed to be she
+950,we,That last one was supposed to be ***,That last one was supposed to be we,That last one was supposed to be we
+951,you,That last one was supposed to be ***,That last one was supposed to be you,That last one was supposed to be you
+952,you all,That last one was supposed to be ***,That last one was supposed to be you all,That last one was supposed to be you all
+953,they,That last one was supposed to be ***,That last one was supposed to be they,That last one was supposed to be they
+954,I,That last one was supposed to be ***,That last one was supposed to be I,That last one was supposed to be I
+955,me,That last one was supposed to be ***,That last one was supposed to be me,That last one was supposed to be me
+956,him,That last one was supposed to be ***,That last one was supposed to be him,That last one was supposed to be him
+957,her,That last one was supposed to be ***,That last one was supposed to be her,That last one was supposed to be her
+958,them,That last one was supposed to be ***,That last one was supposed to be them,That last one was supposed to be them
+959,us,That last one was supposed to be ***,That last one was supposed to be us,That last one was supposed to be us
