@@ -75,9 +75,7 @@ rep(c(1, 2, 3), times = 2)
 ```{r}
 test_df %>% mutate(name_removed_flag = case_when(str_detect(final_sentence, "\\*\\*\\*")))
 
-
 ```
-
 
 
 
